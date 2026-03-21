@@ -11,6 +11,7 @@
 | 每日YouTube摘要 | 每天获取你关注的YouTube频道的个性化新视频摘要，再也不错过真正想看的创作者内容 | `usecases/每日YouTube摘要/daily-youtube-digest.md` |
 | 财报追踪器 | AI驱动的自动化财报追踪与摘要推送工具，帮助用户实时掌握科技和AI公司的财报动态 | `usecases/财报追踪器/earnings-tracker.md` |
 | 收件箱清理 | 自动清理订阅邮件堆积，每天生成精选摘要并学习用户偏好持续优化 | `usecases/收件箱清理/inbox-declutter.md` |
+| 多源科技新闻摘要 | 自动聚合 109+ 信源的科技新闻，涵盖 RSS、Twitter/X、GitHub 发布和网页搜索，智能评分去重后推送 | `usecases/多源科技新闻摘要/multi-source-tech-news-digest.md` |
 
 ## 致谢
 
