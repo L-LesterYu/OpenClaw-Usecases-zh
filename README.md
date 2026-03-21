@@ -45,6 +45,7 @@
 |------|------|------|
 | [每日Reddit摘要](usecases/每日Reddit摘要/daily-reddit-digest.md) | 每天运行一次摘要推送，为你精选最喜欢的子版块中表现最热门的帖子 | 🔔 📦 |
 | [每日YouTube摘要](usecases/每日YouTube摘要/daily-youtube-digest.md) | 每天获取你关注的YouTube频道的个性化新视频摘要，再也不错过真正想看的创作者内容 | 🔔 📦 |
+| [X账号分析](usecases/X账号分析/x-account-analysis.md) | AI 驱动的 X 账号定性分析，发现发帖模式、热门话题和互动差异，无需付费订阅 | 📦 |
 | [多源科技新闻摘要](usecases/多源科技新闻摘要/multi-source-tech-news-digest.md) | 自动聚合 109+ 信源的科技新闻，涵盖 RSS、Twitter/X、GitHub 发布和网页搜索，智能评分去重后推送 | 🔔 📦 |
 
 ### ⚡ 个人效率
