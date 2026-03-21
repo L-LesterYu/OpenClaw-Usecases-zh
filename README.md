@@ -19,7 +19,6 @@
 本项目是对 github上的OpenClaw的usecases（比如[awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)） 仓库的**中文翻译**，旨在帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
 
 > 🌟 **一句话定位：** 将全球最棒的 OpenClaw 用例翻译成中文，降低使用门槛。
-> 警告： 此处引用的 OpenClaw 技能和第三方依赖可能存在严重的安全漏洞。许多用例链接到社区构建的技能、插件和外部仓库，这些未经本列表维护者审核。请始终审查技能源代码，检查请求的权限，并避免硬编码 API 密钥或凭证。您对自己的安全负全部责任。
 
 ## ⭐ 推荐用例
 
