@@ -83,6 +83,7 @@
 |------|------|------|
 | [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 将所有保存的内容构建为可搜索的语义知识库，支持 URL 自动抓取收录和智能检索 | ✅ 📦 |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 将 OpenClaw 变成零阻力的记忆采集系统，通过短信记录灵感、链接和想法，配合 Next.js 可搜索仪表板随时检索 | ✅ 📦 |
+| [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过 ID 获取任意 arXiv 论文并以对话方式阅读分析，自动展平 LaTeX 符号，支持多论文摘要对比和章节级别深度解读 | ✅ 📦 |
 
 ---
 
