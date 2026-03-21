@@ -52,6 +52,7 @@
 
 | 用例 | 说明 | 标记 |
 |------|------|------|
+| [会议纪要与行动项](usecases/会议纪要与行动项/meeting-notes-action-items.md) | 将任意会议纪要自动转化为结构化笔记，提取行动项并创建到 Jira/Linear/Todoist，支持 Slack 摘要推送 | 📦 |
 | [每日晨间简报](usecases/每日晨间简报/custom-morning-brief.md) | 每天定时发送个性化晨间简报，涵盖新闻、任务、创意和 AI 主动建议，醒来时工作已完成 | 🔔 |
 | [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 通过 Telegram 或短信进行每日习惯签到追踪，自适应提醒语气，周报分析模式 | 🔔 ✅ |
 | [收件箱清理](usecases/收件箱清理/inbox-declutter.md) | 自动清理订阅邮件堆积，每天生成精选摘要并学习用户偏好持续优化 | 🔔 📦 |
