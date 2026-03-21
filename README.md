@@ -57,6 +57,7 @@
 | [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 通过 Telegram 或短信进行每日习惯签到追踪，自适应提醒语气，周报分析模式 | 🔔 ✅ |
 | [收件箱清理](usecases/收件箱清理/inbox-declutter.md) | 自动清理订阅邮件堆积，每天生成精选摘要并学习用户偏好持续优化 | 🔔 📦 |
 | [健康与症状追踪](usecases/健康与症状追踪/health-symptom-tracker.md) | 通过 Telegram 自动追踪饮食和症状，每日提醒记录餐食，每周分析规律识别潜在食物过敏源 | 🔔 ✅ |
+| [电话来电通知](usecases/电话来电通知/phone-call-notifications.md) | 将智能体电话通知作为紧急通知通道，通过 clawr.ing 直接拨打真实电话，支持双向实时对话 | 📦 |
 | [Todoist任务管理器](usecases/todoist任务管理器/todoist-task-manager.md) | 将智能体内部推理和进度日志同步到 Todoist，实现长时间运行任务的可视化透明度 | 📦 |
 
 ### 🔧 基础设施运维
