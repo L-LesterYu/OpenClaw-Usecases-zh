@@ -1,0 +1,14 @@
+# OpenClaw Usecases 中文翻译
+
+本仓库收集了 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) 的中文翻译版本。
+
+## 已翻译的用例
+
+| 中文名称 | 说明 | 文件路径 |
+|---------|------|---------|
+| 每日Reddit摘要 | 每天运行一次摘要推送，为你精选最喜欢的子版块中表现最热门的帖子 | `usecases/每日Reddit摘要/daily-reddit-digest.md` |
+
+## 致谢
+
+- 原始仓库：[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+- 翻译工具：OpenClaw
