@@ -10,6 +10,7 @@
 | 习惯追踪与问责教练 | 通过 Telegram 或短信进行每日习惯签到追踪，自适应提醒语气，周报分析模式 | `usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md` |
 | 每日YouTube摘要 | 每天获取你关注的YouTube频道的个性化新视频摘要，再也不错过真正想看的创作者内容 | `usecases/每日YouTube摘要/daily-youtube-digest.md` |
 | 财报追踪器 | AI驱动的自动化财报追踪与摘要推送工具，帮助用户实时掌握科技和AI公司的财报动态 | `usecases/财报追踪器/earnings-tracker.md` |
+| 收件箱清理 | 自动清理订阅邮件堆积，每天生成精选摘要并学习用户偏好持续优化 | `usecases/收件箱清理/inbox-declutter.md` |
 
 ## 致谢
 
