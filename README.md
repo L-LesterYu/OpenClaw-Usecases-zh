@@ -14,7 +14,7 @@
 
 ## 📖 项目简介
 
-本项目是对 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) 仓库的**中文翻译**，旨在帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
+本项目是对 github上的OpenClaw的usecases比如[awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) 仓库的**中文翻译**，旨在帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
 
 > 🌟 **一句话定位：** 将全球最棒的 OpenClaw 用例翻译成中文，降低使用门槛。
 
