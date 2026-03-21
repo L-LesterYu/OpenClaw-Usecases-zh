@@ -115,7 +115,6 @@ cd OpenClaw-Usecases-zh
 ## 🙏 致谢
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) — 原始英文用例合集
-- [OpenClaw](https://openclaw.ai) — 翻译工具及平台支持
 - 所有参与翻译和贡献的贡献者
 
 ---
@@ -125,5 +124,5 @@ cd OpenClaw-Usecases-zh
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by the OpenClaw Chinese Community</sub>
+  <sub>Built with ❤️ by Lester</sub>
 </p>
