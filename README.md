@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-46-9cf"><img src="https://img.shields.io/badge/用例数量-46-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-47-9cf"><img src="https://img.shields.io/badge/用例数量-47-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -230,6 +230,7 @@
 | [市场调研与产品工厂](usecases/市场调研与产品工厂/market-research-product-factory.md) | 在 Reddit 和 X 上挖掘真实痛点，自动从调研到原型构建完整产品流水线 | 📦 | ⭐⭐ |
 | [构建前创意验证](usecases/构建前创意验证/pre-build-idea-validator.md) | 在构建前自动扫描 GitHub、HN、npm 等平台检查竞争情况，返回拥挤度评分 | 📦 | ⭐⭐ |
 | [财报追踪器](usecases/财报追踪器/earnings-tracker.md) | AI 驱动的财报追踪与摘要推送，实时掌握科技和 AI 公司财报动态 | 🔔 📦 | ⭐⭐ |
+| [每日学习日志](usecases/每日学习日志/57-daily-learning-journal.md) | 每天晚上通过智能体引导反思当日所学，自动记录日志并生成每周/每月成长报告 | 🔔 | ⭐ |
 
 <details>
 <summary>🇨🇳 知识管理与学习 — 国内替代方案</summary>
@@ -241,6 +242,7 @@
 - 市场调研与产品工厂 → 🇨🇳 可替代为：**知乎、微博、即刻**替代 Reddit/X 做调研
 - 构建前创意验证 → 🇨🇳 可替代为：**Gitee**替代 GitHub、**掘金**替代 HN
 - 财报追踪器 → 🇨🇳 可扩展支持**A股财报**（巨潮资讯等）
+- 每日学习日志 → 🇨🇳 通用性强，可直接使用，可通过**微信/飞书/钉钉**替代 Telegram 推送每日提示
 
 </details>
 
