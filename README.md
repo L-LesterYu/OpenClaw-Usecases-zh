@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-41-9cf"><img src="https://img.shields.io/badge/用例数量-41-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-42-9cf"><img src="https://img.shields.io/badge/用例数量-42-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -128,6 +128,7 @@
 | [多源科技新闻摘要](usecases/多源科技新闻摘要/multi-source-tech-news-digest.md) | 聚合 109+ 信源的科技新闻，智能评分去重后推送 | 🔔 📦 | ⭐⭐ |
 | [YouTube内容流水线](usecases/YouTube内容流水线/youtube-content-pipeline.md) | 自动化视频创意侦察和研究流水线，语义去重避免重复选题，Slack 链接触发自动研究 | 🔔 📦 | ⭐⭐ |
 | [播客制作流水线](usecases/播客制作流水线/podcast-production-pipeline.md) | 自动化播客制作全流程：嘉宾研究、大纲脚本、节目笔记、社交媒体推广素材 | 📦 | ⭐⭐ |
+| [小红书营销全自动工作流](usecases/小红书营销全自动工作流/tensorslab-xiaohongshu-marketing.md) | TensorsLab + 小红书营销全自动工作流，热点抓取 → 文案生成 → 配图生成 → 飞书归档，支持每日定时执行 | 🔔 📦 | ⭐⭐⭐ |
 | [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
@@ -140,6 +141,7 @@
 - 多源科技新闻摘要 → 🇨🇳 通用性强，可直接使用
 - YouTube内容流水线 → 🇨🇳 可替代为：**B站动态订阅摘要**，用飞书/钉钉群替代 Slack
 - 播客制作流水线 → 🇨🇳 通用性强，可直接使用
+- 小红书营销全自动工作流 → 🇨🇳 原生中文场景，直接使用（飞书多维表格、小红书、TensorsLab）
 - 多智能体内容工厂 → 🇨🇳 可替代为：**飞书群、钉钉群**作为协作平台
 
 </details>
