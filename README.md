@@ -17,14 +17,14 @@
 
 ## 📖 项目简介
 
-本项目是对 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) 的**中文翻译 + 国内替代方案**项目，帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
+本项目是对 各类OpenClaw的usecases 的**中文翻译 + 国内替代方案**项目以及更精细化的整理，帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
 
 ### 🎯 我们的差异化
 
 | 项目 | 定位 |
 |------|------|
 | **本项目** | 精准翻译 + 每个用例附带国内替代方案说明，不仅是翻译，更是本地化指南 |
-| [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 优秀的中文翻译项目，侧重于用例的翻译整理 |
+| [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 优秀的中文项目，侧重于用例的整理 |
 
 **我们的核心卖点：** 每个用例都标注了 `🇨🇳 可替代为：xxx`，告诉你 Reddit → 知乎、YouTube → B站、Gmail → QQ邮箱……不用翻墙也能用起来。
 
