@@ -1,93 +1,91 @@
 # 播客制作流水线
 
-你有播客创意，甚至可能有一个待录的节目主题库。但在研究嘉宾、撰写大纲、起草开场白、生成节目笔记和编写社交媒体推广文案之间——制作开销扼杀了你的动力。如果只需提交一个主题，就能获得完整的制作包呢？
+你有一个播客想法，甚至可能积压了不少选题。但研究嘉宾、写大纲、起草开场白、生成节目笔记、写推广社交媒体文案——这些制作工作量严重拖慢了你的节奏。如果只需提交一个选题，就能拿到一套完整的制作素材包呢？
 
-这个用例将智能体串联起来处理从主题到发布就绪素材的整个播客制作工作流。
+本用例将多个智能体串联起来，处理从选题到发布就绪素材的整个播客制作工作流。
 
 ## 痛点
 
-独立播客创作者和小团队花在制作上的时间比实际录音还多。研究需要数小时，节目笔记事后的才想起来写，社交媒体推广是最先被跳过的。创意部分——对话——可能只占总工作量的 30%。这个智能体处理剩下的 70%。
+独立播客主和小团队花在制作上的时间比实际录制还多。研究要花几个小时，节目笔记总是被遗忘，社交媒体推广更是第一个被跳过的环节。真正有创意的部分——对话——可能只占总工作量的 30%。这个智能体负责处理剩下的 70%。
 
-## 功能介绍
+## 功能
 
-- **节目研究** — 给定主题或嘉宾姓名，整理背景研究、谈话要点和建议问题
-- **大纲与脚本** — 生成结构化节目大纲，包含开场脚本、段落过渡和结束语
-- **节目笔记** — 录制后，将转录文本处理为带时间戳的节目笔记，包含所有提及内容的链接
-- **社交媒体素材包** — 为 X、LinkedIn 和 Instagram 创建推广帖子，包含节目亮点和金句
-- **节目描述** — 编写针对 Spotify、Apple Podcasts 和 YouTube 优化的 SEO 节目描述
+- **节目调研** — 给定选题或嘉宾姓名，整理背景资料、谈话要点和建议问题
+- **大纲与脚本** — 生成结构化的节目大纲，包含开场脚本、环节过渡和结语
+- **节目笔记** — 录制完成后，将录音稿处理为带时间戳的节目笔记，附上所有提到的资源链接
+- **社交媒体素材包** — 为 X、LinkedIn 和 Instagram 创建推广文案，包含节目亮点和金句摘录
+- **节目简介** — 为 Spotify、Apple Podcasts 和 YouTube 撰写 SEO 优化的节目描述
 
 ## 所需技能
 
-- 网页搜索/研究技能（用于嘉宾研究和主题深入）
-- 文件系统访问（用于读取转录文本和写入输出文件）
+- Web 搜索 / 调研技能（用于嘉宾调研和选题深度挖掘）
+- 文件系统访问（用于读取录音稿和写入输出文件）
 - Slack、Discord 或 Telegram 集成（用于交付素材）
-- 可选：`sessions_spawn`，用于并行运行研究和写作智能体
-- 可选：RSS feed 技能（用于监控竞品播客）
+- 可选：`sessions_spawn` 用于并行运行调研和写作智能体
+- 可选：RSS 订阅技能（用于监控竞品播客）
 
-## 设置方法
+## 如何设置
 
-1. 录制前——生成研究和大纲：
+1. 录制前 — 生成调研和大纲：
 ```text
-I'm recording a podcast episode about [TOPIC]. My guest is [NAME].
+我即将录制一期关于 [选题] 的播客节目。我的嘉宾是 [姓名]。
 
-Please:
-1. Research the guest — their background, recent work, hot takes, and
-   anything controversial or interesting they've said publicly.
-2. Research the topic — key trends, recent news, common misconceptions,
-   and what the audience likely already knows vs. what would surprise them.
-3. Generate an episode outline:
-   - Cold open hook (1-2 sentences to grab attention)
-   - Intro script (30 seconds, casual tone)
-   - 5-7 interview questions, ordered from easy/rapport-building to deep/provocative
-   - 2-3 "back pocket" questions in case the conversation stalls
-   - Closing segment with call-to-action
+请：
+1. 调研嘉宾 — 他们的背景、近期作品、犀利观点，
+   以及他们在公开场合说过的任何有争议或有趣的话。
+2. 调研选题 — 关键趋势、最新动态、常见误解，
+   以及听众可能已知的部分和会让他们感到意外的部分。
+3. 生成节目大纲：
+   - 冷开场引子（1-2 句话吸引注意力）
+   - 开场脚本（30 秒，轻松语气）
+   - 5-7 个采访问题，从轻松/建立关系到深入/具挑战性依次排列
+   - 2-3 个"备用"问题，以防对话陷入僵局
+   - 结尾环节，包含行动号召
 
-Save everything to ~/podcast/episodes/[episode-number]/prep/
+将所有内容保存到 ~/podcast/episodes/[期数]/prep/
 ```
 
-2. 录制后——生成节目笔记和推广素材：
+2. 录制后 — 生成节目笔记和推广素材：
 ```text
-Here's the transcript for Episode [NUMBER]: [paste or point to file]
+这是第 [期数] 期的录音稿：[粘贴内容或指向文件]
 
-Please:
-1. Write timestamped show notes — every major topic shift gets a timestamp
-   and one-line summary. Include links to anything mentioned (tools, books,
-   articles, people).
-2. Write an episode description (max 200 words) optimized for podcast
-   search. Include 3-5 relevant keywords naturally.
-3. Create social media posts:
-   - X/Twitter: 3 tweets — one pull quote, one key insight, one question
-     to spark discussion. Each under 280 chars.
-   - LinkedIn: 1 post, professional tone, 100-150 words.
-   - Instagram caption: 1 post with emoji, casual tone, include relevant hashtags.
-4. Extract a "highlights" list — the 3 most interesting/surprising moments
-   with timestamps.
+请：
+1. 撰写带时间戳的节目笔记 — 每个主要话题转换都标注时间戳
+   和一行摘要。包含所有提到的资源链接（工具、书籍、文章、人物）。
+2. 撰写节目简介（最多 200 字），针对播客搜索进行优化。
+   自然地包含 3-5 个相关关键词。
+3. 创建社交媒体文案：
+   - X/Twitter：3 条推文 — 一条金句摘录、一条核心洞察、一条引发讨论的问题。
+     每条不超过 280 字符。
+   - LinkedIn：1 条帖子，专业语气，100-150 字。
+   - Instagram 配文：1 条帖子，带 emoji，轻松语气，包含相关话题标签。
+4. 提取"精华"列表 — 3 个最有趣/最令人意外的时刻，附时间戳。
 
-Save everything to ~/podcast/episodes/[episode-number]/publish/
+将所有内容保存到 ~/podcast/episodes/[期数]/publish/
 ```
 
-3. 可选——竞品监控：
+3. 可选 — 竞品监控：
 ```text
-Monitor these podcast RSS feeds daily:
-- [feed URL 1]
-- [feed URL 2]
+每天监控以下播客 RSS 订阅源：
+- [订阅源 URL 1]
+- [订阅源 URL 2]
 
-When a new episode drops that covers a topic relevant to my podcast,
-send me a Telegram message with:
-- Episode title and link
-- One-sentence summary
-- Whether this is something I should respond to or cover from my angle
+当有新节目发布，且其话题与我的播客相关时，
+通过 Telegram 发给我一条消息，包含：
+- 节目标题和链接
+- 一句话摘要
+- 是否值得我回应或从我的角度进行解读
 ```
 
-## 核心洞察
+## 关键洞察
 
-- **录制前研究**是价值最大的部分。带着深入的嘉宾研究走进采访，能让对话显著提升——这是后期制作无法伪造的。
-- 带时间戳的节目笔记是巨大的听众留存工具。大多数播客创作者跳过它们因为太繁琐。这个智能体让它们变得毫不费力。
-- 社交媒体素材包节省了最多的**周期性**时间。每集都需要推广，而且结构总是相同的——非常适合自动化。
-- 与 [多智能体内容工厂](content-factory.md) 搭配使用效果很好，如果你想把播客内容重新加工成博客文章、通讯或视频片段。
+- **录制前调研**是最有价值的环节。带着深入的嘉宾研究走进采访，能让对话质量显著提升——这是后期制作无法弥补的。
+- 带时间戳的节目笔记是提升听众留存率的强大工具。大多数播客主跳过这一步因为太繁琐，但这个智能体让它变得毫不费力。
+- 社交媒体素材包节省的是最**重复性**的时间。每一期节目都需要推广素材，而且结构总是相同的——非常适合自动化。
+- 如果你想将播客内容改编为博客文章、新闻简报或短视频片段，可以与[多智能体内容工厂](content-factory.md)搭配使用。
 
 ## 相关链接
 
-- [播客 RSS Feed 规范](https://podcasters.apple.com/support/823-podcast-requirements)
+- [Podcast RSS 订阅源规范](https://podcasters.apple.com/support/823-podcast-requirements)
 - [Spotify for Podcasters](https://podcasters.spotify.com/)
-- [Whisper (OpenAI)](https://github.com/openai/whisper) — 用于本地转录生成
+- [Whisper (OpenAI)](https://github.com/openai/whisper) — 用于本地录音稿生成
