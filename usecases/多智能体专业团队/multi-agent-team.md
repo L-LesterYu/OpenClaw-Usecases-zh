@@ -190,7 +190,7 @@ Weekly:
 
 这个模式由 [Trebuh 在 X 上描述](https://x.com/iamtrebuh/status/2011260468975771862)，一位独立创始人设置了 4 个 OpenClaw 智能体——Milo（战略负责人）、Josh（商业）、营销智能体和开发智能体——全部通过单个 Telegram 聊天在 VPS 上控制。每个智能体有自己的个性、模型和定时任务，同时共享项目记忆。他将其描述为"一个 24/7 可用的真实小团队"。
 
-该模式也在 [OpenClaw Showcase](https://openclaw.ai/showcase) 上得到确认，`@jdrhyne` 报告运行"15+ 个智能体，3 台机器，1 个 Discord 服务器——IT 部门通过聊天构建了大部分功能"，`@nateliason` 描述了一个多模型流水线（原型 → 摘要 → 优化 → 实现 → 重复），在每个阶段使用不同的模型。
+该模式也在 [OpenClaw Showcase](https://openclaw.ai/showcase) 上得到确认，`@jdrhyne` 报告运行"15+ 个智能体，3 台机器，1 个 Discord 服务器——IT 部门通过聊天构建了大部分功能"，`@nateliason` 描述了一个多模型流水线（原型 → 摘要 → 优化 → 实现 → 重复），在每个阶段使用不同的模型。另一位用户 `@danpeguine` 则运行两个不同的 OpenClaw 实例在同一个 WhatsApp 群组中协作。
 
 ## 相关链接
 
