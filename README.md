@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-44-9cf"><img src="https://img.shields.io/badge/用例数量-44-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-45-9cf"><img src="https://img.shields.io/badge/用例数量-45-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -166,6 +166,7 @@
 | [比价购物助手](usecases/比价购物助手/price-comparison-shopper.md) | 在线购物时自动跨平台搜索比价、查找优惠券并推荐最优方案，一条消息找到最低价 | ✅ | ⭐ |
 | [天气预报晨报](usecases/天气预报晨报/weather-morning-report.md) | 每天早上通过 Telegram 自动推送天气预报，包含 4 个时段的温度、体感、湿度和风速，极端天气自动告警 | 🔔 💰 📦 | ⭐⭐ |
 | [目标驱动自主任务](usecases/目标驱动自主任务/overnight-mini-app-builder.md) | 将目标倾诉给智能体，它每天自主生成和执行任务推进目标，还能夜间构建惊喜 MVP | 🔔 📦 | ⭐⭐⭐ |
+| [医学邮件转播客](usecases/医学邮件转播客/01-medical-email-to-podcast.md) | 将医学简报邮件自动转化为音频播客，解析链接深入研究，撰写专业播客脚本，TTS 语音生成后通过 Signal 投递 | 🔔 💰 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -186,6 +187,7 @@
 - 比价购物助手 → 🇨🇳 可替代为：**淘宝、京东、拼多多**作为比价平台
 - 天气预报晨报 → 🇨🇳 可替代为：**和风天气 API、心知天气**替代 Yandex 天气，**微信/飞书/钉钉**替代 Telegram 推送
 - 目标驱动自主任务 → 🇨🇳 通用性强，可直接使用
+- 医学邮件转播客 → 🇨🇳 可替代为：**微信/飞书**替代 Signal 投递音频，**讯飞语音/阿里云TTS**替代 ElevenLabs，**QQ邮箱/163邮箱**替代 Gmail
 
 </details>
 
