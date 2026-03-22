@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-40-9cf"><img src="https://img.shields.io/badge/用例数量-40-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-41-9cf"><img src="https://img.shields.io/badge/用例数量-41-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -191,11 +191,13 @@
 | [动态数据仪表盘](usecases/动态数据仪表盘/dynamic-dashboard.md) | 子智能体并行获取多数据源，生成实时仪表盘，支持阈值告警 | 🔔 📦 | ⭐⭐⭐ |
 | [自主项目管理](usecases/自主项目管理/autonomous-project-management.md) | 共享状态文件实现去中心化并行项目管理，子智能体自主协调 | 📦 | ⭐⭐⭐ |
 | [n8n工作流编排](usecases/n8n工作流编排/n8n-workflow-orchestration.md) | 通过 Webhook 将外部 API 交互委托给 n8n 工作流，智能体不接触凭证，可视化可锁定 | 📦 | ⭐⭐⭐ |
+| [智能体安全扫描](usecases/智能体安全扫描/agent-security-scanning.md) | 使用 ClawGuard 在安装前自动扫描技能和插件，检测提示注入、隐私泄露和供应链攻击 | 📦 | ⭐⭐ |
 | [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
 
+- 智能体安全扫描 → 🇨🇳 通用性强，可直接使用，ClawGuard 支持本地运行
 - 这类用例主要依赖 OpenClaw 自身能力和服务器环境，国内替代方案较少
 - 数据源方面可考虑：**Gitee** 替代 GitHub、**阿里云/腾讯云**监控替代国外服务
 
