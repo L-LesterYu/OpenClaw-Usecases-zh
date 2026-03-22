@@ -26,7 +26,7 @@
 | **本项目** | 精准翻译 + 每个用例附带国内替代方案说明，不仅是翻译，更是本地化指南 |
 | [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 优秀的中文项目，侧重于用例的整理 |
 
-**我们的核心卖点：** 每个用例都标注了 `🇨🇳 可替代为：xxx`，告诉你 Reddit → 知乎、YouTube → B站、Gmail → QQ邮箱……不用翻墙也能用起来。
+** 每个用例都标注了 `🇨🇳 可替代为：xxx`，告诉你 Reddit → 知乎、YouTube → B站、Gmail → QQ邮箱……不用翻墙也能用起来。
 
 ---
 
