@@ -106,6 +106,8 @@
 - [💼 效率工具](#-效率工具)
 - [🔧 基础设施与运维](#-基础设施与运维)
 - [🧠 知识管理与学习](#-知识管理与学习)
+- [💰 财经追踪](#-财经追踪)
+- [🎧 客户服务与销售](#-客户服务与销售)
 - [🎮 创意与开发](#-创意与开发)
 - [🚀 快速开始](#-快速开始)
 - [🤝 贡献指南](#-贡献指南)
@@ -124,6 +126,8 @@
 | [X账号分析](usecases/X账号分析/x-account-analysis.md) | AI 驱动的 X 账号定性分析，发现发帖模式和互动差异 | 📦 | ⭐⭐ |
 | [XTwitter自动化](usecases/XTwitter自动化/x-twitter-automation.md) | 通过自然语言全面操控 X/Twitter，发推、回复、搜索、抽奖等 | 📦 | ⭐⭐⭐ |
 | [多源科技新闻摘要](usecases/多源科技新闻摘要/multi-source-tech-news-digest.md) | 聚合 109+ 信源的科技新闻，智能评分去重后推送 | 🔔 📦 | ⭐⭐ |
+| [YouTube内容流水线](usecases/YouTube内容流水线/youtube-content-pipeline.md) | 自动化视频创意侦察和研究流水线，语义去重避免重复选题，Slack 链接触发自动研究 | 🔔 📦 | ⭐⭐ |
+| [播客制作流水线](usecases/播客制作流水线/podcast-production-pipeline.md) | 自动化播客制作全流程：嘉宾研究、大纲脚本、节目笔记、社交媒体推广素材 | 📦 | ⭐⭐ |
 | [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
@@ -134,6 +138,8 @@
 - X账号分析 → 🇨🇳 可替代为：**微博账号分析、小红书账号分析**
 - XTwitter自动化 → 🇨🇳 可替代为：**微博自动化、即刻自动化**
 - 多源科技新闻摘要 → 🇨🇳 通用性强，可直接使用
+- YouTube内容流水线 → 🇨🇳 可替代为：**B站动态订阅摘要**，用飞书/钉钉群替代 Slack
+- 播客制作流水线 → 🇨🇳 通用性强，可直接使用
 - 多智能体内容工厂 → 🇨🇳 可替代为：**飞书群、钉钉群**作为协作平台
 
 </details>
@@ -151,6 +157,11 @@
 | [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐⭐ |
 | [活动嘉宾确认](usecases/活动嘉宾确认/event-guest-confirmation.md) | 通过 SuperCall 自动拨打嘉宾电话确认出席，收集备注并汇总 | 📦 | ⭐⭐⭐ |
 | [电话来电通知](usecases/电话来电通知/phone-call-notifications.md) | 通过 clawr.ing 拨打真实电话作为紧急通知通道，支持双向对话 | 📦 | ⭐⭐⭐ |
+| [电话语音助手](usecases/电话语音助手/phone-based-personal-assistant.md) | 通过 ClawdTalk 让 OpenClaw 接听和拨打电话，任何电话都能变成 AI 语音助手入口 | 📦 | ⭐⭐⭐ |
+| [多渠道个人助手](usecases/多渠道个人助手/multi-channel-assistant.md) | 将 Telegram、Slack、Google Workspace、Todoist、Asana 整合到一个 AI 助手中，基于话题路由请求 | 📦 | ⭐⭐⭐ |
+| [多智能体专业团队](usecases/多智能体专业团队/multi-agent-team.md) | 为独立创始人配置多个专业化 AI 智能体，通过单个 Telegram 群聊控制，共享记忆协作 | 📦 | ⭐⭐⭐ |
+| [项目状态管理](usecases/项目状态管理/project-state-management.md) | 用事件驱动系统替代看板，通过自然语言对话自动追踪项目进度、决策和阻塞 | 📦 | ⭐⭐⭐ |
+| [目标驱动自主任务](usecases/目标驱动自主任务/overnight-mini-app-builder.md) | 将目标倾诉给智能体，它每天自主生成和执行任务推进目标，还能夜间构建惊喜 MVP | 🔔 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -164,6 +175,11 @@
 - Todoist任务管理器 → 🇨🇳 可替代为：**滴答清单、飞书待办**
 - 活动嘉宾确认 → 🇨🇳 可替代为：**阿里云语音、腾讯云语音**
 - 电话来电通知 → 🇨🇳 可替代为：**阿里云语音、腾讯云语音**
+- 电话语音助手 → 🇨🇳 可替代为：**阿里云语音、腾讯云语音**
+- 多渠道个人助手 → 🇨🇳 可替代为：**飞书群、钉钉群、微信**替代 Telegram/Slack
+- 多智能体专业团队 → 🇨🇳 可替代为：**飞书群、钉钉群**作为控制面板
+- 项目状态管理 → 🇨🇳 通用性强，可直接使用
+- 目标驱动自主任务 → 🇨🇳 通用性强，可直接使用
 
 </details>
 
@@ -174,6 +190,8 @@
 | [自愈式家庭服务器](usecases/自愈式家庭服务器/self-healing-home-server.md) | 将 OpenClaw 变成自愈式运维智能体，自动检测、诊断并修复服务器故障 | 🔔 📦 | ⭐⭐⭐ |
 | [动态数据仪表盘](usecases/动态数据仪表盘/dynamic-dashboard.md) | 子智能体并行获取多数据源，生成实时仪表盘，支持阈值告警 | 🔔 📦 | ⭐⭐⭐ |
 | [自主项目管理](usecases/自主项目管理/autonomous-project-management.md) | 共享状态文件实现去中心化并行项目管理，子智能体自主协调 | 📦 | ⭐⭐⭐ |
+| [n8n工作流编排](usecases/n8n工作流编排/n8n-workflow-orchestration.md) | 通过 Webhook 将外部 API 交互委托给 n8n 工作流，智能体不接触凭证，可视化可锁定 | 📦 | ⭐⭐⭐ |
+| [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
@@ -197,6 +215,8 @@
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，通过短信记录灵感，配合可搜索仪表板检索 | ✅ 📦 | ⭐ |
 | [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 基于向量引擎的语义搜索，为记忆文件提供按含义检索能力 | ✅ | ⭐ |
 | [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过 ID 获取 arXiv 论文，对话式阅读分析，支持多论文对比 | ✅ | ⭐ |
+| [市场调研与产品工厂](usecases/市场调研与产品工厂/market-research-product-factory.md) | 在 Reddit 和 X 上挖掘真实痛点，自动从调研到原型构建完整产品流水线 | 📦 | ⭐⭐ |
+| [构建前创意验证](usecases/构建前创意验证/pre-build-idea-validator.md) | 在构建前自动扫描 GitHub、HN、npm 等平台检查竞争情况，返回拥挤度评分 | 📦 | ⭐⭐ |
 | [财报追踪器](usecases/财报追踪器/earnings-tracker.md) | AI 驱动的财报追踪与摘要推送，实时掌握科技和 AI 公司财报动态 | 🔔 📦 | ⭐⭐ |
 
 <details>
@@ -206,7 +226,39 @@
 - 第二大脑 → 🇨🇳 前端可替换为**任何前端框架**（Vue/React 等）
 - 语义记忆搜索 → 🇨🇳 通用性强，可直接使用
 - arXiv论文阅读器 → 🇨🇳 可扩展支持**知网、万方**等国内论文库
+- 市场调研与产品工厂 → 🇨🇳 可替代为：**知乎、微博、即刻**替代 Reddit/X 做调研
+- 构建前创意验证 → 🇨🇳 可替代为：**Gitee**替代 GitHub、**掘金**替代 HN
 - 财报追踪器 → 🇨🇳 可扩展支持**A股财报**（巨潮资讯等）
+
+</details>
+
+### 💰 财经追踪
+
+| 用例 | 说明 | 标记 | 难度 |
+|------|------|------|------|
+| [Polymarket自动交易](usecases/Polymarket自动交易/polymarket-autopilot.md) | 在预测市场上自动化模拟交易，支持多种策略、回测分析和每日绩效报告 | 🔔 📦 | ⭐⭐⭐ |
+
+<details>
+<summary>🇨🇳 财经追踪 — 国内替代方案</summary>
+
+- Polymarket自动交易 → 🇨🇳 可参考类似逻辑应用于国内**虚拟盘模拟交易**
+
+</details>
+
+### 🎧 客户服务与销售
+
+| 用例 | 说明 | 标记 | 难度 |
+|------|------|------|------|
+| [多渠道AI客服](usecases/多渠道AI客服/multi-channel-customer-service.md) | 将 WhatsApp、Instagram、邮件、Google 评论整合到 AI 收件箱，24/7 自动回复 | 📦 | ⭐⭐⭐ |
+| [个人CRM](usecases/个人CRM/personal-crm.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
+| [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
+
+<details>
+<summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>
+
+- 多渠道AI客服 → 🇨🇳 可替代为：**微信公众号、企业微信**作为客户触点
+- 个人CRM → 🇨🇳 通用性强，可直接使用
+- 本地CRM框架 → 🇨🇳 通用性强，DenchClaw 支持本地部署
 
 </details>
 
