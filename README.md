@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-53-9cf"><img src="https://img.shields.io/badge/用例数量-53-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-54-9cf"><img src="https://img.shields.io/badge/用例数量-54-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -162,6 +162,7 @@
 | [创始人每日控制室](usecases/创始人每日控制室/README.md) | 每日跨产品、运营和日程的高管运营简报，聚合优先事项、风险和截止日期，生成精简控制室简报 | 🔔 📦 | ⭐⭐ |
 | [产品经理AI副驾驶](usecases/产品经理AI副驾驶/openclaw-product-manager-copilot.md) | 将 OpenClaw 部署为自托管的产品经理副驾驶，自动完成迭代评审、用户反馈处理和竞品情报生成 | 🔔 📦 | ⭐⭐⭐ |
 | [AI费用追踪器](usecases/AI费用追踪器/ai-cost-tracker.md) | 跨所有服务商追踪 AI 用量，对异常支出发出告警，识别费用优化机会，帮助为每个任务选择最合适的模型 | 🔔 📦 | ⭐⭐ |
+| [企业微信AI助手](usecases/企业微信AI助手/README.md) | 将 OpenClaw 部署为企业微信应用，支持企业微信和个人微信内对话式AI，流式输出、群聊助手和多媒体收发 | 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -186,6 +187,7 @@
 - 医学邮件转播客 → 🇨🇳 可替代为：**微信/飞书**替代 Signal 投递音频，**讯飞语音/阿里云TTS**替代 ElevenLabs，**QQ邮箱/163邮箱**替代 Gmail
 - 创始人每日控制室 → 🇨🇳 通用性强，可直接使用，可通过**飞书/钉钉群**替代 Slack 投递简报
 - 产品经理AI副驾驶 → 🇨🇳 可替代为：**飞书项目/钉钉Teambition**替代 Jira，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack
+- 企业微信AI助手 → 🇨🇳 原生中文场景，直接使用（企业微信 + 微信插件，零封号风险）
 
 </details>
 
