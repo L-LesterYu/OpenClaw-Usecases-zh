@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-61-9cf"><img src="https://img.shields.io/badge/用例数量-61-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-62-9cf"><img src="https://img.shields.io/badge/用例数量-62-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -234,6 +234,7 @@
 | [每日学习日志](usecases/每日学习日志/57-daily-learning-journal.md) | 每天晚上通过智能体引导反思当日所学，自动记录日志并生成每周/每月成长报告 | 🔔 | ⭐ |
 | [生活记忆记录器](usecases/生活记忆记录器/60-memory-life-logger.md) | 自动捕获日常互动中的重要信息（生日、偏好、承诺等），智能提取分类，关键时刻提醒你成为更贴心的朋友和伙伴 | 🔔 📦 | ⭐⭐ |
 | [深度研究编排器](usecases/深度研究编排器/deep-research-orchestrator.md) | 通过浏览器中继同时调用 Claude、ChatGPT 和 Gemini 的深度研究功能，并行研究同一问题，交叉验证后综合生成一份经过验证的结论 | 📦 | ⭐⭐⭐ |
+| [可审计项目记忆与决策回溯](usecases/可审计项目记忆与决策回溯/auditable-project-memory.md) | 使用 openclaw-mem 构建本地优先的可审计记忆层，支持确定性回溯、记忆健康检查和过时上下文防护 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 知识管理与学习 — 国内替代方案</summary>
@@ -249,6 +250,7 @@
 - 三层记忆系统 → 🇨🇳 通用性强，可直接使用，是 OpenClaw 记忆管理的最佳实践方案
 - 生活记忆记录器 → 🇨🇳 通用性强，可直接使用，可通过**微信/飞书/钉钉**替代 Telegram 接收记忆和提醒
 - 深度研究编排器 → 🇨🇳 可替代为：**通义千问、文心一言、Kimi**替代 Claude/ChatGPT/Gemini，通过国内浏览器中继或 API 实现类似多平台并行研究
+- 可审计项目记忆与决策回溯 → 🇨🇳 通用性强，可直接使用，openclaw-mem 支持本地运行
 
 </details>
 
