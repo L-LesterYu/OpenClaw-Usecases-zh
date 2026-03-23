@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-63-9cf"><img src="https://img.shields.io/badge/用例数量-63-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-64-9cf"><img src="https://img.shields.io/badge/用例数量-64-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -229,6 +229,7 @@
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，通过短信记录灵感，配合可搜索仪表板检索 | ✅ 📦 | ⭐ |
 | [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 基于向量引擎的语义搜索，为记忆文件提供按含义检索能力 | ✅ | ⭐ |
 | [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过 ID 获取 arXiv 论文，对话式阅读分析，支持多论文对比 | ✅ | ⭐ |
+| [HuggingFace论文研究发现](usecases/HuggingFace论文研究发现/hf-papers-research-discovery.md) | 对话式发现、筛选和深度阅读 Hugging Face 热门 ML 论文，支持每日热门浏览、关键词搜索、摘要阅读和 LaTeX 源码深度解读 | ✅ | ⭐ |
 | [市场调研与产品工厂](usecases/市场调研与产品工厂/market-research-product-factory.md) | 在 Reddit 和 X 上挖掘真实痛点，自动从调研到原型构建完整产品流水线 | 📦 | ⭐⭐ |
 | [构建前创意验证](usecases/构建前创意验证/pre-build-idea-validator.md) | 在构建前自动扫描 GitHub、HN、npm 等平台检查竞争情况，返回拥挤度评分 | 📦 | ⭐⭐ |
 | [财报追踪器](usecases/财报追踪器/earnings-tracker.md) | AI 驱动的财报追踪与摘要推送，实时掌握科技和 AI 公司财报动态 | 🔔 📦 | ⭐⭐ |
