@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-60-9cf"><img src="https://img.shields.io/badge/用例数量-60-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-61-9cf"><img src="https://img.shields.io/badge/用例数量-61-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -273,6 +273,7 @@
 | [个人CRM](usecases/个人CRM/personal-crm.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
+| [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>
@@ -281,6 +282,7 @@
 - 个人CRM → 🇨🇳 通用性强，可直接使用
 - 本地CRM框架 → 🇨🇳 通用性强，DenchClaw 支持本地部署
 - SLA守护者 → 🇨🇳 可替代为：**飞书群、钉钉群**替代 Slack 推送，**QQ邮箱、163邮箱**替代 Gmail
+- 邮件自动分类器 → 🇨🇳 可替代为：**QQ邮箱、163邮箱**替代 Gmail，分拣逻辑通用
 
 </details>
 
