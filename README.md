@@ -203,6 +203,7 @@
 | [n8n工作流编排](usecases/n8n工作流编排/n8n-workflow-orchestration.md) | 通过 Webhook 将外部 API 交互委托给 n8n 工作流，智能体不接触凭证，可视化可锁定 | 📦 | ⭐⭐⭐ |
 | [智能体安全扫描](usecases/智能体安全扫描/agent-security-scanning.md) | 使用 ClawGuard 在安装前自动扫描技能和插件，检测提示注入、隐私泄露和供应链攻击 | 📦 | ⭐⭐ |
 | [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
+| [PR雷达](usecases/PR雷达/README.md) | 持续扫描多个仓库的开放PR和CI运行状态，生成分类摘要报告，标记阻塞、陈旧和可合并的PR，并推送行动建议到Slack/Telegram | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
