@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-49-9cf"><img src="https://img.shields.io/badge/用例数量-49-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-50-9cf"><img src="https://img.shields.io/badge/用例数量-50-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -233,6 +233,7 @@
 | [市场调研与产品工厂](usecases/市场调研与产品工厂/market-research-product-factory.md) | 在 Reddit 和 X 上挖掘真实痛点，自动从调研到原型构建完整产品流水线 | 📦 | ⭐⭐ |
 | [构建前创意验证](usecases/构建前创意验证/pre-build-idea-validator.md) | 在构建前自动扫描 GitHub、HN、npm 等平台检查竞争情况，返回拥挤度评分 | 📦 | ⭐⭐ |
 | [财报追踪器](usecases/财报追踪器/earnings-tracker.md) | AI 驱动的财报追踪与摘要推送，实时掌握科技和 AI 公司财报动态 | 🔔 📦 | ⭐⭐ |
+| [三层记忆系统](usecases/三层记忆系统/04-three-tier-memory-system.md) | 兼顾速度与持久性的智能体记忆结构化方案，采用长期核心原则、每日事件日志和项目专项追踪三层架构 | ✅ | ⭐ |
 | [每日学习日志](usecases/每日学习日志/57-daily-learning-journal.md) | 每天晚上通过智能体引导反思当日所学，自动记录日志并生成每周/每月成长报告 | 🔔 | ⭐ |
 | [深度研究编排器](usecases/深度研究编排器/deep-research-orchestrator.md) | 通过浏览器中继同时调用 Claude、ChatGPT 和 Gemini 的深度研究功能，并行研究同一问题，交叉验证后综合生成一份经过验证的结论 | 📦 | ⭐⭐⭐ |
 
@@ -247,6 +248,7 @@
 - 构建前创意验证 → 🇨🇳 可替代为：**Gitee**替代 GitHub、**掘金**替代 HN
 - 财报追踪器 → 🇨🇳 可扩展支持**A股财报**（巨潮资讯等）
 - 每日学习日志 → 🇨🇳 通用性强，可直接使用，可通过**微信/飞书/钉钉**替代 Telegram 推送每日提示
+- 三层记忆系统 → 🇨🇳 通用性强，可直接使用，是 OpenClaw 记忆管理的最佳实践方案
 - 深度研究编排器 → 🇨🇳 可替代为：**通义千问、文心一言、Kimi**替代 Claude/ChatGPT/Gemini，通过国内浏览器中继或 API 实现类似多平台并行研究
 
 </details>
