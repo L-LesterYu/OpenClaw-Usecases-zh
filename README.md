@@ -261,6 +261,7 @@
 
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
+| [AI智能股票分析](usecases/AI智能股票分析/ai-stock-analysis.md) | 基于 FinClaw 的多策略 AI 股票分析工具，支持美股、A股、港股 8 种交易策略独立运行并汇总信号，2020-2025 年化 Alpha +29.1% | 📦 | ⭐⭐ |
 | [Polymarket自动交易](usecases/Polymarket自动交易/polymarket-autopilot.md) | 在预测市场上自动化模拟交易，支持多种策略、回测分析和每日绩效报告 | 🔔 📦 | ⭐⭐⭐ |
 
 <details>
