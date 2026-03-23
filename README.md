@@ -273,6 +273,7 @@
 | [多渠道AI客服](usecases/多渠道AI客服/multi-channel-customer-service.md) | 将 WhatsApp、Instagram、邮件、Google 评论整合到 AI 收件箱，24/7 自动回复 | 📦 | ⭐⭐⭐ |
 | [个人CRM](usecases/个人CRM/personal-crm.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
+| [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>
@@ -280,6 +281,7 @@
 - 多渠道AI客服 → 🇨🇳 可替代为：**微信公众号、企业微信**作为客户触点
 - 个人CRM → 🇨🇳 通用性强，可直接使用
 - 本地CRM框架 → 🇨🇳 通用性强，DenchClaw 支持本地部署
+- SLA守护者 → 🇨🇳 可替代为：**飞书群、钉钉群**替代 Slack 推送，**QQ邮箱、163邮箱**替代 Gmail
 
 </details>
 
