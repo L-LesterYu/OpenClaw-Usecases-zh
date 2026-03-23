@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-48-9cf"><img src="https://img.shields.io/badge/用例数量-48-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-49-9cf"><img src="https://img.shields.io/badge/用例数量-49-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -168,6 +168,7 @@
 | [目标驱动自主任务](usecases/目标驱动自主任务/overnight-mini-app-builder.md) | 将目标倾诉给智能体，它每天自主生成和执行任务推进目标，还能夜间构建惊喜 MVP | 🔔 📦 | ⭐⭐⭐ |
 | [医学邮件转播客](usecases/医学邮件转播客/01-medical-email-to-podcast.md) | 将医学简报邮件自动转化为音频播客，解析链接深入研究，撰写专业播客脚本，TTS 语音生成后通过 Signal 投递 | 🔔 💰 📦 | ⭐⭐⭐ |
 | [创始人每日控制室](usecases/创始人每日控制室/README.md) | 每日跨产品、运营和日程的高管运营简报，聚合优先事项、风险和截止日期，生成精简控制室简报 | 🔔 📦 | ⭐⭐ |
+| [产品经理AI副驾驶](usecases/产品经理AI副驾驶/openclaw-product-manager-copilot.md) | 将 OpenClaw 部署为自托管的产品经理副驾驶，自动完成迭代评审、用户反馈处理和竞品情报生成 | 🔔 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -190,6 +191,7 @@
 - 目标驱动自主任务 → 🇨🇳 通用性强，可直接使用
 - 医学邮件转播客 → 🇨🇳 可替代为：**微信/飞书**替代 Signal 投递音频，**讯飞语音/阿里云TTS**替代 ElevenLabs，**QQ邮箱/163邮箱**替代 Gmail
 - 创始人每日控制室 → 🇨🇳 通用性强，可直接使用，可通过**飞书/钉钉群**替代 Slack 投递简报
+- 产品经理AI副驾驶 → 🇨🇳 可替代为：**飞书项目/钉钉Teambition**替代 Jira，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack
 
 </details>
 
