@@ -6,7 +6,8 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
-    <a href="https://img.shields.io/badge/用例数量-50-9cf"><img src="https://img.shields.io/badge/用例数量-50-9cf" alt="Usecases"></a>
+    <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
+    <a href="https://img.shields.io/badge/用例数量-52-9cf"><img src="https://img.shields.io/badge/用例数量-52-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -163,6 +164,7 @@
 | [多智能体专业团队](usecases/多智能体专业团队/multi-agent-team.md) | 为独立创始人配置多个专业化 AI 智能体，通过单个 Telegram 群聊控制，共享记忆协作 | 📦 | ⭐⭐⭐ |
 | [项目状态管理](usecases/项目状态管理/project-state-management.md) | 用事件驱动系统替代看板，通过自然语言对话自动追踪项目进度、决策和阻塞 | 📦 | ⭐⭐⭐ |
 | [比价购物助手](usecases/比价购物助手/price-comparison-shopper.md) | 在线购物时自动跨平台搜索比价、查找优惠券并推荐最优方案，一条消息找到最低价 | ✅ | ⭐ |
+| [预约与订位助手](usecases/预约与订位助手/63-booking-appointment-agent.md) | 通过 AI 智能体自动完成餐厅、医疗、家政等各类预约和订位流程，搜索比较选项后一键预订并同步日历 | 📦 | ⭐⭐ |
 | [天气预报晨报](usecases/天气预报晨报/weather-morning-report.md) | 每天早上通过 Telegram 自动推送天气预报，包含 4 个时段的温度、体感、湿度和风速，极端天气自动告警 | 🔔 💰 📦 | ⭐⭐ |
 | [目标驱动自主任务](usecases/目标驱动自主任务/overnight-mini-app-builder.md) | 将目标倾诉给智能体，它每天自主生成和执行任务推进目标，还能夜间构建惊喜 MVP | 🔔 📦 | ⭐⭐⭐ |
 | [医学邮件转播客](usecases/医学邮件转播客/01-medical-email-to-podcast.md) | 将医学简报邮件自动转化为音频播客，解析链接深入研究，撰写专业播客脚本，TTS 语音生成后通过 Signal 投递 | 🔔 💰 📦 | ⭐⭐⭐ |
@@ -186,6 +188,7 @@
 - 多智能体专业团队 → 🇨🇳 可替代为：**飞书群、钉钉群**作为控制面板
 - 项目状态管理 → 🇨🇳 通用性强，可直接使用
 - 比价购物助手 → 🇨🇳 可替代为：**淘宝、京东、拼多多**作为比价平台
+- 预约与订位助手 → 🇨🇳 可替代为：**大众点评、美团**搜索商家，**飞书日历、钉钉日历**同步预约，浏览器功能通过**国内网站**完成在线订位
 - 天气预报晨报 → 🇨🇳 可替代为：**和风天气 API、心知天气**替代 Yandex 天气，**微信/飞书/钉钉**替代 Telegram 推送
 - 目标驱动自主任务 → 🇨🇳 通用性强，可直接使用
 - 医学邮件转播客 → 🇨🇳 可替代为：**微信/飞书**替代 Signal 投递音频，**讯飞语音/阿里云TTS**替代 ElevenLabs，**QQ邮箱/163邮箱**替代 Gmail
