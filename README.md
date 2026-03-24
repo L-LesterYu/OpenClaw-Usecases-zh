@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-66-9cf"><img src="https://img.shields.io/badge/用例数量-66-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-67-9cf"><img src="https://img.shields.io/badge/用例数量-67-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -239,6 +239,7 @@
 | [生活记忆记录器](usecases/生活记忆记录器/60-memory-life-logger.md) | 自动捕获日常互动中的重要信息（生日、偏好、承诺等），智能提取分类，关键时刻提醒你成为更贴心的朋友和伙伴 | 🔔 📦 | ⭐⭐ |
 | [深度研究编排器](usecases/深度研究编排器/deep-research-orchestrator.md) | 通过浏览器中继同时调用 Claude、ChatGPT 和 Gemini 的深度研究功能，并行研究同一问题，交叉验证后综合生成一份经过验证的结论 | 📦 | ⭐⭐⭐ |
 | [可审计项目记忆与决策回溯](usecases/可审计项目记忆与决策回溯/auditable-project-memory.md) | 使用 openclaw-mem 构建本地优先的可审计记忆层，支持确定性回溯、记忆健康检查和过时上下文防护 | 📦 | ⭐⭐ |
+| [阅读清单策展人](usecases/阅读清单策展人/61-reading-list-curator.md) | 自动收集你分享的链接，按主题分类整理，每周五推送精选周末阅读清单，附带简介摘要，告别堆积的稍后阅读书签 | 🔔 📦 | ⭐ |
 
 <details>
 <summary>🇨🇳 知识管理与学习 — 国内替代方案</summary>
@@ -255,6 +256,7 @@
 - 生活记忆记录器 → 🇨🇳 通用性强，可直接使用，可通过**微信/飞书/钉钉**替代 Telegram 接收记忆和提醒
 - 深度研究编排器 → 🇨🇳 可替代为：**通义千问、文心一言、Kimi**替代 Claude/ChatGPT/Gemini，通过国内浏览器中继或 API 实现类似多平台并行研究
 - 可审计项目记忆与决策回溯 → 🇨🇳 通用性强，可直接使用，openclaw-mem 支持本地运行
+- 阅读清单策展人 → 🇨🇳 通用性强，可直接使用，可通过**微信/飞书/钉钉**替代 Telegram 收藏链接和接收阅读清单
 
 </details>
 
