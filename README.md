@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-68-9cf"><img src="https://img.shields.io/badge/用例数量-68-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-69-9cf"><img src="https://img.shields.io/badge/用例数量-69-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -207,6 +207,7 @@
 | [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
 | [PR雷达](usecases/PR雷达/README.md) | 持续扫描多个仓库的开放PR和CI运行状态，生成分类摘要报告，标记阻塞、陈旧和可合并的PR，并推送行动建议到Slack/Telegram | 🔔 📦 | ⭐⭐ |
 | [发布说明自动生成](usecases/发布说明自动生成/README.md) | 从已合并的 PR 活动中自动生成每周发布说明草稿，按标签分组（功能/修复/文档/破坏性变更），输出可直接发布的 Markdown | 🔔 📦 | ⭐⭐ |
+| [GitHub Issue优先级排序器](usecases/GitHub Issue优先级排序器/README.md) | 自动扫描多个仓库的 GitHub Issue 进行优先级排序，识别陈旧 Issue，按紧急程度分类，并生成每日晨报摘要 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
