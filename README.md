@@ -218,12 +218,14 @@
 | [PR雷达](usecases/PR雷达/README.md) | 持续扫描多个仓库的开放PR和CI运行状态，生成分类摘要报告，标记阻塞、陈旧和可合并的PR，并推送行动建议到Slack/Telegram | 🔔 📦 | ⭐⭐ |
 | [发布说明自动生成](usecases/发布说明自动生成/README.md) | 从已合并的 PR 活动中自动生成每周发布说明草稿，按标签分组（功能/修复/文档/破坏性变更），输出可直接发布的 Markdown | 🔔 📦 | ⭐⭐ |
 | [GitHub Issue优先级排序器](usecases/GitHub Issue优先级排序器/README.md) | 自动扫描多个仓库的 GitHub Issue 进行优先级排序，识别陈旧 Issue，按紧急程度分类，并生成每日晨报摘要 | 🔔 📦 | ⭐⭐ |
+| [智能体邮件基础设施](usecases/智能体邮件基础设施/agent-email-infrastructure.md) | 让 OpenClaw 智能体拥有自己的邮箱地址，无需人工注册、API 密钥或控制台配置即可自主收发邮件 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
 
 - 智能体安全扫描 → 🇨🇳 通用性强，可直接使用，ClawGuard 支持本地运行
 - 这类用例主要依赖 OpenClaw 自身能力和服务器环境，国内替代方案较少
+- 智能体邮件基础设施 → 🇨🇳 可替代为：**QQ邮箱、163邮箱**作为邮件收发渠道，国内 SMTP/IMAP 服务可直接对接
 - 数据源方面可考虑：**Gitee** 替代 GitHub、**阿里云/腾讯云**监控替代国外服务
 
 </details>
