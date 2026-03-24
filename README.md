@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-73-9cf"><img src="https://img.shields.io/badge/用例数量-73-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-74-9cf"><img src="https://img.shields.io/badge/用例数量-74-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -122,6 +122,7 @@
 | [小红书营销全自动工作流](usecases/小红书营销全自动工作流/tensorslab-xiaohongshu-marketing.md) | TensorsLab + 小红书营销全自动工作流，热点抓取 → 文案生成 → 配图生成 → 飞书归档，支持每日定时执行 | 🔔 📦 | ⭐⭐⭐ |
 | [内容创意挖掘器](usecases/内容创意挖掘器/README.md) | 每周从网页和 YouTube 采集信号，自动过滤重复内容，生成带来源佐证的排名创意简报 | 🔔 📦 | ⭐⭐ |
 | [Instagram故事管理器](usecases/Instagram故事管理器/53-instagram-story-manager.md) | 将智能体配置为 Instagram 故事管理助手，定时发布内容、回应互动、维护受众关系，通过浏览器自动化完成操作 | 🔔 📦 | ⭐⭐ |
+| [PDF文章转播客](usecases/PDF文章转播客/pdf-articles-to-podcast.md) | 利用 ai-podcast 技能将 PDF URL 转化为双人主持播客音频，配合 Chat with PDF 预提取关键要点，返回可分享的收听链接 | 📦 💰 | ⭐⭐ |
 | [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
@@ -137,6 +138,7 @@
 - 小红书营销全自动工作流 → 🇨🇳 原生中文场景，直接使用（飞书多维表格、小红书、TensorsLab）
 - 内容创意挖掘器 → 🇨🇳 可替代为：**知乎热榜、微博热搜、B站热门**替代网页/YouTube信号源，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack 推送
 - Instagram故事管理器 → 🇨🇳 可替代为：**小红书、微博故事、抖音**替代 Instagram 作为社交媒体平台
+- PDF文章转播客 → 🇨🇳 可替代为：**讯飞语音、阿里云TTS**替代 MagicPodcast API，**飞书/钉钉群**分享音频链接
 - 多智能体内容工厂 → 🇨🇳 可替代为：**飞书群、钉钉群**作为协作平台
 
 </details>
