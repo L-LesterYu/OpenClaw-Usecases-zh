@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-65-9cf"><img src="https://img.shields.io/badge/用例数量-65-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-66-9cf"><img src="https://img.shields.io/badge/用例数量-66-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -165,6 +165,7 @@
 | [产品经理AI副驾驶](usecases/产品经理AI副驾驶/openclaw-product-manager-copilot.md) | 将 OpenClaw 部署为自托管的产品经理副驾驶，自动完成迭代评审、用户反馈处理和竞品情报生成 | 🔔 📦 | ⭐⭐⭐ |
 | [AI费用追踪器](usecases/AI费用追踪器/ai-cost-tracker.md) | 跨所有服务商追踪 AI 用量，对异常支出发出告警，识别费用优化机会，帮助为每个任务选择最合适的模型 | 🔔 📦 | ⭐⭐ |
 | [企业微信AI助手](usecases/企业微信AI助手/README.md) | 将 OpenClaw 部署为企业微信应用，支持企业微信和个人微信内对话式AI，流式输出、群聊助手和多媒体收发 | 📦 | ⭐⭐⭐ |
+| [智能旅行规划师](usecases/智能旅行规划师/travel-planner.md) | 几分钟搞定行程规划，自动处理航班、住宿、每日行程和计划变更，一切在一次对话中完成 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
