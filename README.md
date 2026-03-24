@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-68-9cf"><img src="https://img.shields.io/badge/用例数量-68-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-69-9cf"><img src="https://img.shields.io/badge/用例数量-69-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -285,6 +285,7 @@
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 | [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
+| [AI情感分析与工作流自动化](usecases/AI情感分析与工作流自动化/README.md) | 利用机器学习技术分析评论、社交媒体和工单中的情感倾向，自动触发响应工作流，支持实时分析和数据看板 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>

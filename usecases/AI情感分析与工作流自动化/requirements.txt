@@ -1,0 +1,7 @@
+transformers
+torch
+flask
+celery
+redis
+pandas
+spacy
