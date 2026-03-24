@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-72-9cf"><img src="https://img.shields.io/badge/用例数量-72-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-73-9cf"><img src="https://img.shields.io/badge/用例数量-73-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -247,6 +247,7 @@
 | [深度研究编排器](usecases/深度研究编排器/deep-research-orchestrator.md) | 通过浏览器中继同时调用 Claude、ChatGPT 和 Gemini 的深度研究功能，并行研究同一问题，交叉验证后综合生成一份经过验证的结论 | 📦 | ⭐⭐⭐ |
 | [可审计项目记忆与决策回溯](usecases/可审计项目记忆与决策回溯/auditable-project-memory.md) | 使用 openclaw-mem 构建本地优先的可审计记忆层，支持确定性回溯、记忆健康检查和过时上下文防护 | 📦 | ⭐⭐ |
 | [阅读清单策展人](usecases/阅读清单策展人/61-reading-list-curator.md) | 自动收集你分享的链接，按主题分类整理，每周五推送精选周末阅读清单，附带简介摘要，告别堆积的稍后阅读书签 | 🔔 📦 | ⭐ |
+| [学术论文图表生成器](usecases/学术论文图表生成器/academic-paper-reader.md) | 将 OpenClaw 变为图表提取与生成助手，阅读学术论文后自动从图表和表格中提取数据，并生成可定制的 Matplotlib/Plotly 可视化图表 | 📦 | ⭐⭐ |
 | [69-作业辅导](usecases/69-作业辅导/README.md) | 充当耐心随时在线的辅导老师，引导式教学帮助孩子理解和完成作业，支持数学、科学、英语、历史多科目，可生成练习题并逐步讲解解题过程 | ✅ | ⭐ |
 
 <details>
