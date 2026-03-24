@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-75-9cf"><img src="https://img.shields.io/badge/用例数量-75-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-76-9cf"><img src="https://img.shields.io/badge/用例数量-76-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -175,6 +175,7 @@
 | [智能日历提醒](usecases/智能日历提醒/55-calendar-smart-reminder.md) | 主动日历助手，提前2小时发送带上下文和准备建议的智能提醒，支持冲突检测和交通预警 | 🔔 📦 | ⭐⭐ |
 | [Buffy习惯与任务追踪器](usecases/Buffy习惯与任务追踪器/README.md) | 通过自然语言对话在多平台同步追踪习惯、管理任务和安排日常提醒，单一API即可运行 | 📦 | ⭐⭐ |
 | [会议简报管家](usecases/会议简报管家/README.md) | 在预定会议前自动生成上下文简报，包含会议目标、参会人员背景、历史决策、风险与建议议程 | 🔔 📦 | ⭐⭐ |
+| [PDF文档处理工作台](usecases/PDF文档处理工作台/README.md) | 面向PDF和音频重度处理场景的自动化文档接收与摘要流程，定时扫描工作目录自动生成文档摘要和编辑建议，并从音频笔记中提取行动项 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -200,6 +201,7 @@
 - 创始人每日控制室 → 🇨🇳 通用性强，可直接使用，可通过**飞书/钉钉群**替代 Slack 投递简报
 - 产品经理AI副驾驶 → 🇨🇳 可替代为：**飞书项目/钉钉Teambition**替代 Jira，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack
 - 企业微信AI助手 → 🇨🇳 原生中文场景，直接使用（企业微信 + 微信插件，零封号风险）
+- PDF文档处理工作台 → 🇨🇳 通用性强，可直接使用，可通过**飞书群、钉钉群**替代 Slack 投递摘要
 
 </details>
 
