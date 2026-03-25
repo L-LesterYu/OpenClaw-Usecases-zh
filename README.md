@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-93-9cf"><img src="https://img.shields.io/badge/用例数量-93-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-94-9cf"><img src="https://img.shields.io/badge/用例数量-94-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -233,6 +233,7 @@
 | [每周事件简报](usecases/09-每周事件简报/README.md) | 面向工程管理层的周五事件摘要与事后复盘跟进，自动拉取事件标签 Issue/PR 汇总状态并标记缺失复盘 | 🔔 📦 | ⭐⭐ |
 | [模型费用指挥中心](usecases/模型费用指挥中心/README.md) | 每日模型用量与费用异常监控，按模型和供应商拆解费用，标记异常飙升及驱动因素，提供具体可行的费用优化建议 | 🔔 📦 | ⭐⭐ |
 | [认证门户监控](usecases/认证门户监控/authenticated-portal-monitoring.md) | 自动登录需要认证的 Web 门户提取数据并按计划发送截图或 PDF 报告，适用于计费仪表盘、供应商门户和内部管理面板 | 🔔 📦 | ⭐⭐ |
+| [任务控制中心](usecases/任务控制中心/mission-control-usecase.zh.md) | 多智能体任务编排运营层，自动扫描看板和聊天室任务，基于能力矩阵路由到合适智能体，跟踪生命周期并通过事件驱动通知保持同步 | 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
