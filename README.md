@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-82-9cf"><img src="https://img.shields.io/badge/用例数量-82-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-83-9cf"><img src="https://img.shields.io/badge/用例数量-83-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -324,6 +324,7 @@
 |------|------|------|------|
 | [自主教育游戏开发流水线](usecases/自主教育游戏开发流水线/autonomous-game-dev-pipeline.md) | 自主管理游戏从创建到维护的完整生命周期，每 7 分钟产出一款新游戏 | 📦 | ⭐⭐⭐ |
 | [AI视频剪辑](usecases/AI视频剪辑/ai-video-editing.md) | 通过对话完成视频剪辑：裁剪合并、背景音乐、字幕烧录、调色和竖屏适配，支持批量处理，无需时间线编辑器 | 📦 | ⭐⭐ |
+| [角色图像生成](usecases/角色图像生成/neta-character-image-generation.md) | 通过自然语言直接在聊天中为你的角色生成 AI 图像，支持任意场景、风格和比例，无需打开网页 UI | 📦 | ⭐⭐ |
 
 > 💡 此分类持续扩展中，欢迎提交 PR 添加更多创意与开发类用例！
 
