@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-92-9cf"><img src="https://img.shields.io/badge/用例数量-92-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-93-9cf"><img src="https://img.shields.io/badge/用例数量-93-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -181,6 +181,7 @@
 | [PDF文档处理工作台](usecases/PDF文档处理工作台/README.md) | 面向PDF和音频重度处理场景的自动化文档接收与摘要流程，定时扫描工作目录自动生成文档摘要和编辑建议，并从音频笔记中提取行动项 | 🔔 📦 | ⭐⭐ |
 | [语音笔记转任务](usecases/16-voice-notes-to-tasks/README.md) | 将语音笔记自动转录并提取为可执行任务，包含负责人、截止日期和优先级标签，支持定时批量处理 | 🔔 📦 | ⭐⭐ |
 | [语音命令助手](usecases/语音命令助手/voice-command-assistant.md) | 语音激活的智能助手，基于个人知识图谱解析实体，支持语音发邮件、短信、提醒和搜索，配合 Percept 声纹授权确保安全 | 📦 | ⭐⭐⭐ |
+| [收件箱转行动项](usecases/收件箱转行动项/README.md) | 自动扫描收件箱邮件，提取行动项、截止日期和依赖关系，创建带置信度排序的任务队列，工作日每2小时运行一次 | 🔔 📦 | ⭐⭐ |
 | [家庭数字剪贴簿](usecases/家庭数字剪贴簿/family-digital-scrapbook.md) | 自动将家庭照片和孩子的画作转化为带日历上下文的日记条目，让祖父母通过安全的网页界面随时查看和评论 | 📦 | ⭐⭐ |
 
 <details>
