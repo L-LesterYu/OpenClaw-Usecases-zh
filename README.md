@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-86-9cf"><img src="https://img.shields.io/badge/用例数量-86-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-87-9cf"><img src="https://img.shields.io/badge/用例数量-87-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -123,6 +123,7 @@
 | [内容创意挖掘器](usecases/内容创意挖掘器/README.md) | 每周从网页和 YouTube 采集信号，自动过滤重复内容，生成带来源佐证的排名创意简报 | 🔔 📦 | ⭐⭐ |
 | [Instagram故事管理器](usecases/Instagram故事管理器/53-instagram-story-manager.md) | 将智能体配置为 Instagram 故事管理助手，定时发布内容、回应互动、维护受众关系，通过浏览器自动化完成操作 | 🔔 📦 | ⭐⭐ |
 | [PDF文章转播客](usecases/PDF文章转播客/pdf-articles-to-podcast.md) | 利用 ai-podcast 技能将 PDF URL 转化为双人主持播客音频，配合 Chat with PDF 预提取关键要点，返回可分享的收听链接 | 📦 💰 | ⭐⭐ |
+| [微信公众号自动发布](usecases/微信公众号自动发布/wechat-auto-publish.md) | 从飞书或 Telegram 聊天频道将 Markdown 文章自动发布到微信公众号，支持扫码登录和确认流程 | 📦 | ⭐⭐ |
 | [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
