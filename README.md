@@ -235,6 +235,7 @@
 | [模型费用指挥中心](usecases/模型费用指挥中心/README.md) | 每日模型用量与费用异常监控，按模型和供应商拆解费用，标记异常飙升及驱动因素，提供具体可行的费用优化建议 | 🔔 📦 | ⭐⭐ |
 | [认证门户监控](usecases/认证门户监控/authenticated-portal-monitoring.md) | 自动登录需要认证的 Web 门户提取数据并按计划发送截图或 PDF 报告，适用于计费仪表盘、供应商门户和内部管理面板 | 🔔 📦 | ⭐⭐ |
 | [任务控制中心](usecases/任务控制中心/mission-control-usecase.zh.md) | 多智能体任务编排运营层，自动扫描看板和聊天室任务，基于能力矩阵路由到合适智能体，跟踪生命周期并通过事件驱动通知保持同步 | 📦 | ⭐⭐⭐ |
+| [夜间Shell别名构建器](usecases/05-night-shell-alias-builder/README.md) | 睡觉时自动分析高频命令生成Shell别名，每天减少重复输入提升终端效率，支持安全检查、冲突检测和自动Git提交 | 🔔 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
