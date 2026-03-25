@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-85-9cf"><img src="https://img.shields.io/badge/用例数量-85-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-86-9cf"><img src="https://img.shields.io/badge/用例数量-86-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -177,6 +177,7 @@
 | [会议简报管家](usecases/会议简报管家/README.md) | 在预定会议前自动生成上下文简报，包含会议目标、参会人员背景、历史决策、风险与建议议程 | 🔔 📦 | ⭐⭐ |
 | [竞品监控仪表盘](usecases/竞品监控仪表盘/competitor-watch-dashboard-zh.md) | 每周自动爬取竞品网站、定价页、更新日志和社交账号，检测变化并生成差异报告，提前发现竞品动态 | 🔔 📦 | ⭐⭐ |
 | [PDF文档处理工作台](usecases/PDF文档处理工作台/README.md) | 面向PDF和音频重度处理场景的自动化文档接收与摘要流程，定时扫描工作目录自动生成文档摘要和编辑建议，并从音频笔记中提取行动项 | 🔔 📦 | ⭐⭐ |
+| [语音笔记转任务](usecases/16-voice-notes-to-tasks/README.md) | 将语音笔记自动转录并提取为可执行任务，包含负责人、截止日期和优先级标签，支持定时批量处理 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
