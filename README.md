@@ -276,6 +276,7 @@
 | [阅读清单策展人](usecases/阅读清单策展人/61-reading-list-curator.md) | 自动收集你分享的链接，按主题分类整理，每周五推送精选周末阅读清单，附带简介摘要，告别堆积的稍后阅读书签 | 🔔 📦 | ⭐ |
 | [学术论文图表生成器](usecases/学术论文图表生成器/academic-paper-reader.md) | 将 OpenClaw 变为图表提取与生成助手，阅读学术论文后自动从图表和表格中提取数据，并生成可定制的 Matplotlib/Plotly 可视化图表 | 📦 | ⭐⭐ |
 | [69-作业辅导](usecases/69-作业辅导/README.md) | 充当耐心随时在线的辅导老师，引导式教学帮助孩子理解和完成作业，支持数学、科学、英语、历史多科目，可生成练习题并逐步讲解解题过程 | ✅ | ⭐ |
+| [每周研究摘要](usecases/每周研究摘要/README.md) | 通过网络搜索创建高信号每周摘要，按信号强度和新颖度排序发现，附带趋势洞察和后续行动建议 | 🔔 📦 | ⭐⭐ |
 | [AI驱动的学习流水线](usecases/AI驱动的学习流水线/ai-powered-learning-pipeline.md) | 将 OpenClaw 变成私人导师，每天跨学科教学一个新概念，自动管理课程体系、追踪进度，并支持间隔重复 | 🔔 📦 | ⭐⭐ |
 | [持续认知架构](usecases/持续认知架构/persistent-cognitive-architecture-zh.md) | 通过三层持久化机制（CLAUDE.md + 记忆文件 + 钩子系统）解决 Claude Code 上下文压缩导致的记忆丢失问题，实现跨会话的认知状态连续性 | 📦 | ⭐⭐ |
 
