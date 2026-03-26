@@ -239,6 +239,7 @@
 | [夜间Shell别名构建器](usecases/05-night-shell-alias-builder/README.md) | 睡觉时自动分析高频命令生成Shell别名，每天减少重复输入提升终端效率，支持安全检查、冲突检测和自动Git提交 | 🔔 | ⭐⭐ |
 | [家庭服务器插件操作系统](usecases/家庭服务器插件操作系统/README.md) | 通过 miniclaw-os 将 Mac mini 家庭服务器变为完全自主的 AI 操作系统，集成看板、SEO追踪、邮件、知识库、图像生成、桌面控制等插件套件 | 📦 | ⭐⭐⭐ |
 | [游戏服务器API管理](usecases/游戏服务器API管理/README.md) | 通过自然对话管理多人游戏服务器的完整生命周期：订购、配置、启停、监控、调试，支持 Valheim、Rust、ARK 等 17+ 款游戏，无需 MCP 只需 REST API | 📦 | ⭐⭐ |
+| [智能体审批网关](usecases/智能体审批网关/agent-ruler-approval-gates.md) | 在OpenClaw外围添加确定性策略执行、审批网关和审计凭证，让本地智能体以更小的爆炸半径和更清晰的操作可见性安全运行 | 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
