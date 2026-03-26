@@ -5,7 +5,6 @@
   </p>
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
-    <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
     <a href="https://img.shields.io/badge/用例数量-99-9cf"><img src="https://img.shields.io/badge/用例数量-99-9cf" alt="Usecases"></a>
   </p>
@@ -395,7 +394,6 @@ cd OpenClaw-Usecases-zh
 
 ## 🔗 相关链接
 
-- [上游仓库 - awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) — 原始英文用例合集
 - [OpenClaw 官网](https://openclaw.ai) — OpenClaw 产品主页
 - [OpenClaw 文档](https://docs.openclaw.ai) — 官方使用文档
 
