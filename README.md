@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-102-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-103-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -242,6 +242,7 @@
 | [家庭服务器插件操作系统](usecases/家庭服务器插件操作系统/README.md) | 通过 miniclaw-os 将 Mac mini 家庭服务器变为完全自主的 AI 操作系统，集成看板、SEO追踪、邮件、知识库、图像生成、桌面控制等插件套件 | 📦 | ⭐⭐⭐ |
 | [游戏服务器API管理](usecases/游戏服务器API管理/README.md) | 通过自然对话管理多人游戏服务器的完整生命周期：订购、配置、启停、监控、调试，支持 Valheim、Rust、ARK 等 17+ 款游戏，无需 MCP 只需 REST API | 📦 | ⭐⭐ |
 | [智能体审批网关](usecases/智能体审批网关/agent-ruler-approval-gates.md) | 在OpenClaw外围添加确定性策略执行、审批网关和审计凭证，让本地智能体以更小的爆炸半径和更清晰的操作可见性安全运行 | 📦 | ⭐⭐⭐ |
+| [KatClaw原生macOS图形界面](usecases/KatClaw原生macOS图形界面/katclaw-macos-gui.md) | 将 OpenClaw 封装为一键安装的 macOS 原生应用，提供图形界面配置、安全模式控制、技能管理和自动更新，无需使用终端 | 📦 | ⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
