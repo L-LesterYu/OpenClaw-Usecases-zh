@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-99-9cf"><img src="https://img.shields.io/badge/用例数量-99-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-98-9cf"><img src="https://img.shields.io/badge/用例数量-98-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -226,7 +226,6 @@
 | [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
 | [PR雷达](usecases/PR雷达/README.md) | 持续扫描多个仓库的开放PR和CI运行状态，生成分类摘要报告，标记阻塞、陈旧和可合并的PR，并推送行动建议到Slack/Telegram | 🔔 📦 | ⭐⭐ |
 | [发布说明自动生成](usecases/发布说明自动生成/README.md) | 从已合并的 PR 活动中自动生成每周发布说明草稿，按标签分组（功能/修复/文档/破坏性变更），输出可直接发布的 Markdown | 🔔 📦 | ⭐⭐ |
-| [GitHub Issue优先级排序器](usecases/GitHub Issue优先级排序器/README.md) | 自动扫描多个仓库的 GitHub Issue 进行优先级排序，识别陈旧 Issue，按紧急程度分类，并生成每日晨报摘要 | 🔔 📦 | ⭐⭐ |
 | [智能体邮件基础设施](usecases/智能体邮件基础设施/agent-email-infrastructure.md) | 让 OpenClaw 智能体拥有自己的邮箱地址，无需人工注册、API 密钥或控制台配置即可自主收发邮件 | 📦 | ⭐⭐ |
 | [文档漂移哨兵](usecases/文档漂移哨兵/README.md) | 在代码与文档漂移演变为技术债务之前自动检测并预警，审查合并 PR 标记需更新文档的变更，生成带排名的漂移队列并建议文档负责人 | 🔔 📦 | ⭐⭐ |
 | [基于Ollama的Manus级开源智能体](usecases/基于Ollama的Manus级开源智能体/manusilized-ollama-agent.md) | 使用开源 Ollama 模型运行 Manus 级完全自主 AI 智能体，实时流式输出、可靠工具调用和长程任务处理，无需 API 密钥 | 📦 | ⭐⭐⭐ |
