@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-100-9cf"><img src="https://img.shields.io/badge/用例数量-100-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-101-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -185,6 +185,7 @@
 | [家庭数字剪贴簿](usecases/家庭数字剪贴簿/family-digital-scrapbook.md) | 自动将家庭照片和孩子的画作转化为带日历上下文的日记条目，让祖父母通过安全的网页界面随时查看和评论 | 📦 | ⭐⭐ |
 | [日历冲突解决器](usecases/日历冲突解决器/README.md) | 自动扫描多个日历发现日程冲突和不可能的连续安排，提供重新预约建议并追踪未解决事项 | 🔔 📦 | ⭐⭐ |
 | [团队仪式规划器](usecases/团队仪式规划器/README.md) | 基于团队仪式、会议卫生和运营节奏信号构建周期性团队仪式数据包，自动标记延迟和协调风险供人事负责人使用 | 🔔 📦 | ⭐⭐ |
+| [M365邮件分拣预取](usecases/M365邮件分拣预取/m365-email-triage-prefetch.md) | 跨多个 M365 租户的智能邮件监控，通过 Python 预取脚本将 token 用量降低 99%，配合 OpenClaw 智能分拣判断邮件紧急程度，仅推送需关注的事项 | 🔔 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
@@ -213,6 +214,7 @@
 - 钉钉AI助手 → 🇨🇳 原生中文场景，直接使用（钉钉 Stream 模式，无需公网 IP，中小企业首选）
 - PDF文档处理工作台 → 🇨🇳 通用性强，可直接使用，可通过**飞书群、钉钉群**替代 Slack 投递摘要
 - 语音命令助手 → 🇨🇳 可替代为：**微信/飞书/钉钉**替代 iMessage/Telegram 推送确认通知，**讯飞语音/阿里云语音**替代 Percept 进行语音识别
+- M365邮件分拣预取 → 🇨🇳 可替代为：**QQ邮箱、163邮箱**替代 Outlook，**微信/飞书/钉钉**替代 Telegram 推送分拣结果，预取架构设计通用可直接复用
 
 </details>
 
