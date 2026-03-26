@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🖥️ OpenClaw Usecases 中文翻译</h1>
+  <h1 align="center">🖥️ OpenClaw Usecases 中文版</h1>
   <p align="center">
     <strong>精准翻译 + 国内替代方案，让 OpenClaw 用例触手可及</strong>
   </p>
