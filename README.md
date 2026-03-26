@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-99-9cf"><img src="https://img.shields.io/badge/用例数量-99-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-100-9cf"><img src="https://img.shields.io/badge/用例数量-100-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -170,6 +170,7 @@
 | [创始人每日控制室](usecases/创始人每日控制室/README.md) | 每日跨产品、运营和日程的高管运营简报，聚合优先事项、风险和截止日期，生成精简控制室简报 | 🔔 📦 | ⭐⭐ |
 | [产品经理AI副驾驶](usecases/产品经理AI副驾驶/openclaw-product-manager-copilot.md) | 将 OpenClaw 部署为自托管的产品经理副驾驶，自动完成迭代评审、用户反馈处理和竞品情报生成 | 🔔 📦 | ⭐⭐⭐ |
 | [AI费用追踪器](usecases/AI费用追踪器/ai-cost-tracker.md) | 跨所有服务商追踪 AI 用量，对异常支出发出告警，识别费用优化机会，帮助为每个任务选择最合适的模型 | 🔔 📦 | ⭐⭐ |
+| [钉钉AI助手](usecases/钉钉AI助手/cn-dingtalk-ai-assistant.md) | 将 OpenClaw 部署为钉钉机器人，支持 Stream 模式无需公网 IP，在钉钉私聊或群聊中触发 AI 任务 | 📦 | ⭐⭐⭐ |
 | [企业微信AI助手](usecases/企业微信AI助手/README.md) | 将 OpenClaw 部署为企业微信应用，支持企业微信和个人微信内对话式AI，流式输出、群聊助手和多媒体收发 | 📦 | ⭐⭐⭐ |
 | [智能旅行规划师](usecases/智能旅行规划师/travel-planner.md) | 几分钟搞定行程规划，自动处理航班、住宿、每日行程和计划变更，一切在一次对话中完成 | 📦 | ⭐⭐ |
 | [智能日历提醒](usecases/智能日历提醒/55-calendar-smart-reminder.md) | 主动日历助手，提前2小时发送带上下文和准备建议的智能提醒，支持冲突检测和交通预警 | 🔔 📦 | ⭐⭐ |
@@ -209,6 +210,7 @@
 - 创始人每日控制室 → 🇨🇳 通用性强，可直接使用，可通过**飞书/钉钉群**替代 Slack 投递简报
 - 产品经理AI副驾驶 → 🇨🇳 可替代为：**飞书项目/钉钉Teambition**替代 Jira，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack
 - 企业微信AI助手 → 🇨🇳 原生中文场景，直接使用（企业微信 + 微信插件，零封号风险）
+- 钉钉AI助手 → 🇨🇳 原生中文场景，直接使用（钉钉 Stream 模式，无需公网 IP，中小企业首选）
 - PDF文档处理工作台 → 🇨🇳 通用性强，可直接使用，可通过**飞书群、钉钉群**替代 Slack 投递摘要
 - 语音命令助手 → 🇨🇳 可替代为：**微信/飞书/钉钉**替代 iMessage/Telegram 推送确认通知，**讯飞语音/阿里云语音**替代 Percept 进行语音识别
 
