@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-109-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-117-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -332,6 +332,7 @@
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 | [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
+| [邮件通信副驾驶](usecases/邮件通信副驾驶/email-communications-copilot-zh.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
 | [AI合同签署](usecases/AI合同签署/ai-contract-signing-zh.md) | AI驱动的合同签署工具，智能体自动起草NDA、合同、提案，通过电子签名完成双方签署，生成SHA-256认证防篡改PDF | 📦 💰 | ⭐⭐ |
 
 <details>
