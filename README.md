@@ -244,6 +244,7 @@
 | [游戏服务器API管理](usecases/游戏服务器API管理/README.md) | 通过自然对话管理多人游戏服务器的完整生命周期：订购、配置、启停、监控、调试，支持 Valheim、Rust、ARK 等 17+ 款游戏，无需 MCP 只需 REST API | 📦 | ⭐⭐ |
 | [智能体审批网关](usecases/智能体审批网关/agent-ruler-approval-gates.md) | 在OpenClaw外围添加确定性策略执行、审批网关和审计凭证，让本地智能体以更小的爆炸半径和更清晰的操作可见性安全运行 | 📦 | ⭐⭐⭐ |
 | [KatClaw原生macOS图形界面](usecases/KatClaw原生macOS图形界面/katclaw-macos-gui.md) | 将 OpenClaw 封装为一键安装的 macOS 原生应用，提供图形界面配置、安全模式控制、技能管理和自动更新，无需使用终端 | 📦 | ⭐ |
+| [凌晨5点基础设施健康检查](usecases/凌晨5点基础设施健康检查/13-5am-infrastructure-health-check.md) | 每天凌晨5点自动检查服务器磁盘、内存、负载和备份状态，在人类上班前主动发现并告警基础设施问题 | 🔔 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
