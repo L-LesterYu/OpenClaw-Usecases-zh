@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-98-9cf"><img src="https://img.shields.io/badge/用例数量-98-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-99-9cf"><img src="https://img.shields.io/badge/用例数量-99-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -236,6 +236,7 @@
 | [任务控制中心](usecases/任务控制中心/mission-control-usecase.zh.md) | 多智能体任务编排运营层，自动扫描看板和聊天室任务，基于能力矩阵路由到合适智能体，跟踪生命周期并通过事件驱动通知保持同步 | 📦 | ⭐⭐⭐ |
 | [夜间Shell别名构建器](usecases/05-night-shell-alias-builder/README.md) | 睡觉时自动分析高频命令生成Shell别名，每天减少重复输入提升终端效率，支持安全检查、冲突检测和自动Git提交 | 🔔 | ⭐⭐ |
 | [家庭服务器插件操作系统](usecases/家庭服务器插件操作系统/README.md) | 通过 miniclaw-os 将 Mac mini 家庭服务器变为完全自主的 AI 操作系统，集成看板、SEO追踪、邮件、知识库、图像生成、桌面控制等插件套件 | 📦 | ⭐⭐⭐ |
+| [游戏服务器API管理](usecases/游戏服务器API管理/README.md) | 通过自然对话管理多人游戏服务器的完整生命周期：订购、配置、启停、监控、调试，支持 Valheim、Rust、ARK 等 17+ 款游戏，无需 MCP 只需 REST API | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
