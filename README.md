@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-103-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-108-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -152,6 +152,7 @@
 | [会议纪要与行动项](usecases/会议纪要与行动项/meeting-notes-action-items.md) | 将会议纪要自动转化为结构化笔记，提取行动项并创建到 Jira/Todoist | 📦 | ⭐⭐ |
 | [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 每日习惯签到追踪，自适应提醒语气，周报分析模式 | 🔔 ✅ | ⭐ |
 | [健康与症状追踪](usecases/健康与症状追踪/health-symptom-tracker.md) | 自动追踪饮食和症状，每周分析规律识别潜在食物过敏源 | 🔔 ✅ | ⭐ |
+| [食物照片营养记录](usecases/食物照片营养记录/food-photo-nutrition-logging.md) | 通过聊天文字或食物照片自动记录每日热量和宏量营养素，无需手动填写饮食日记 | 📦 | ⭐⭐ |
 | [家庭日历聚合与家务助手](usecases/家庭日历聚合与家务助手/family-calendar-household-assistant.md) | 聚合多日历生成简报，自动创建预约事件，管理家庭库存 | 🔔 📦 | ⭐⭐ |
 | [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐⭐ |
 | [活动嘉宾确认](usecases/活动嘉宾确认/event-guest-confirmation.md) | 通过 SuperCall 自动拨打嘉宾电话确认出席，收集备注并汇总 | 📦 | ⭐⭐⭐ |
