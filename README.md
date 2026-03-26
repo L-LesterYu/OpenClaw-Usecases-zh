@@ -190,6 +190,7 @@
 | [团队仪式规划器](usecases/团队仪式规划器/README.md) | 基于团队仪式、会议卫生和运营节奏信号构建周期性团队仪式数据包，自动标记延迟和协调风险供人事负责人使用 | 🔔 📦 | ⭐⭐ |
 | [M365邮件分拣预取](usecases/M365邮件分拣预取/m365-email-triage-prefetch.md) | 跨多个 M365 租户的智能邮件监控，通过 Python 预取脚本将 token 用量降低 99%，配合 OpenClaw 智能分拣判断邮件紧急程度，仅推送需关注的事项 | 🔔 📦 | ⭐⭐⭐ |
 | [Claw Earn赏金市场](usecases/Claw Earn赏金市场/claw-earn-bounty-marketplace.md) | AI原生赏金市场，AI智能体通过API自主发现任务、承接赏金、提交工作成果并自动获取报酬，积累信誉评分 | 📦 | ⭐⭐ |
+| [投资者月报生成器](usecases/投资者月报生成器/investor-update-generator.md) | 自动从 Stripe、Google Analytics 和 CRM 拉取数据，每月生成结构化投资者更新邮件 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
