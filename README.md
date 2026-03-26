@@ -226,6 +226,7 @@
 | [自愈式家庭服务器](usecases/自愈式家庭服务器/self-healing-home-server.md) | 将 OpenClaw 变成自愈式运维智能体，自动检测、诊断并修复服务器故障 | 🔔 📦 | ⭐⭐⭐ |
 | [动态数据仪表盘](usecases/动态数据仪表盘/dynamic-dashboard.md) | 子智能体并行获取多数据源，生成实时仪表盘，支持阈值告警 | 🔔 📦 | ⭐⭐⭐ |
 | [自主项目管理](usecases/自主项目管理/autonomous-project-management.md) | 共享状态文件实现去中心化并行项目管理，子智能体自主协调 | 📦 | ⭐⭐⭐ |
+| [域名注册助手](usecases/域名注册助手/domain-name-registration.md) | 通过自然对话在 1000+ 顶级域名中检查可用性、对比价格并完成域名注册，告别繁琐的注册商网站 | 📦 | ⭐⭐ |
 | [n8n工作流编排](usecases/n8n工作流编排/n8n-workflow-orchestration.md) | 通过 Webhook 将外部 API 交互委托给 n8n 工作流，智能体不接触凭证，可视化可锁定 | 📦 | ⭐⭐⭐ |
 | [智能体安全扫描](usecases/智能体安全扫描/agent-security-scanning.md) | 使用 ClawGuard 在安装前自动扫描技能和插件，检测提示注入、隐私泄露和供应链攻击 | 📦 | ⭐⭐ |
 | [AionUI桌面协作站](usecases/AionUI桌面协作站/aionui-cowork-desktop.md) | 通过桌面 Cowork UI 使用 OpenClaw，支持远程救援、多智能体和多渠道访问 | 📦 | ⭐⭐ |
