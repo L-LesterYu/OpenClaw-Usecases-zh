@@ -339,6 +339,7 @@
 | [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
 | [邮件通信副驾驶](usecases/邮件通信副驾驶/email-communications-copilot-zh.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
 | [AI合同签署](usecases/AI合同签署/ai-contract-signing-zh.md) | AI驱动的合同签署工具，智能体自动起草NDA、合同、提案，通过电子签名完成双方签署，生成SHA-256认证防篡改PDF | 📦 💰 | ⭐⭐ |
+| [销售通话准备助手](usecases/销售通话准备助手/README.md) | 基于账户历史、日历上下文和待处理事项自动生成简明的销售通话前简报，包含目标、利益相关者图谱、风险和下一步行动建议 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>
