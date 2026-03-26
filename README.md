@@ -247,6 +247,7 @@
 | [KatClaw原生macOS图形界面](usecases/KatClaw原生macOS图形界面/katclaw-macos-gui.md) | 将 OpenClaw 封装为一键安装的 macOS 原生应用，提供图形界面配置、安全模式控制、技能管理和自动更新，无需使用终端 | 📦 | ⭐ |
 | [凌晨5点基础设施健康检查](usecases/凌晨5点基础设施健康检查/13-5am-infrastructure-health-check.md) | 每天凌晨5点自动检查服务器磁盘、内存、负载和备份状态，在人类上班前主动发现并告警基础设施问题 | 🔔 | ⭐⭐ |
 | [运行时安全加固](usecases/运行时安全加固/runtime-security-hardening.md) | 使用 PRISM 为 OpenClaw 添加运行时安全防御层，拦截提示注入、执行滥用、凭证泄露和文件篡改，支持 10 个生命周期钩子、HMAC 审计日志和安全仪表盘 | 📦 | ⭐⭐ |
+| [Opik可观测性追踪](usecases/Opik可观测性追踪/opik-openclaw-observability.md) | 通过 Opik 为 OpenClaw 添加端到端可观测性，集中查看 LLM/工具/子智能体的追踪链路、错误和成本用量，支持快速故障排查和费用优化 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
