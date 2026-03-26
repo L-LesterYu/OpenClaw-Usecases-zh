@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-119-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-120-9cf"><img src="https://img.shields.io/badge/用例数量-120-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -123,6 +123,7 @@
 | [Instagram故事管理器](usecases/Instagram故事管理器/53-instagram-story-manager.md) | 将智能体配置为 Instagram 故事管理助手，定时发布内容、回应互动、维护受众关系，通过浏览器自动化完成操作 | 🔔 📦 | ⭐⭐ |
 | [PDF文章转播客](usecases/PDF文章转播客/pdf-articles-to-podcast.md) | 利用 ai-podcast 技能将 PDF URL 转化为双人主持播客音频，配合 Chat with PDF 预提取关键要点，返回可分享的收听链接 | 📦 💰 | ⭐⭐ |
 | [微信公众号自动发布](usecases/微信公众号自动发布/wechat-auto-publish.md) | 从飞书或 Telegram 聊天频道将 Markdown 文章自动发布到微信公众号，支持扫码登录和确认流程 | 📦 | ⭐⭐ |
+| [YouTube研究工作台](usecases/YouTube研究工作台/README.md) | 将 YouTube 定向监控转化为结构化可执行的研究笔记，基于字幕生成洞见摘要并发布关键要点和行动建议 | 🔔 📦 | ⭐⭐ |
 | [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
@@ -139,6 +140,7 @@
 - 内容创意挖掘器 → 🇨🇳 可替代为：**知乎热榜、微博热搜、B站热门**替代网页/YouTube信号源，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack 推送
 - Instagram故事管理器 → 🇨🇳 可替代为：**小红书、微博故事、抖音**替代 Instagram 作为社交媒体平台
 - PDF文章转播客 → 🇨🇳 可替代为：**讯飞语音、阿里云TTS**替代 MagicPodcast API，**飞书/钉钉群**分享音频链接
+- YouTube研究工作台 → 🇨🇳 可替代为：**B站动态订阅**替代 YouTube 监控，**飞书文档**替代 Notion，**飞书群/钉钉群**替代 Slack 推送研究笔记
 - 多智能体内容工厂 → 🇨🇳 可替代为：**飞书群、钉钉群**作为协作平台
 
 </details>
