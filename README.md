@@ -7,7 +7,7 @@
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/L-LesterYu/OpenClaw-Usecases-zh" alt="License"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-97-9cf"><img src="https://img.shields.io/badge/用例数量-97-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-98-9cf"><img src="https://img.shields.io/badge/用例数量-98-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -184,6 +184,7 @@
 | [收件箱转行动项](usecases/收件箱转行动项/README.md) | 自动扫描收件箱邮件，提取行动项、截止日期和依赖关系，创建带置信度排序的任务队列，工作日每2小时运行一次 | 🔔 📦 | ⭐⭐ |
 | [家庭数字剪贴簿](usecases/家庭数字剪贴簿/family-digital-scrapbook.md) | 自动将家庭照片和孩子的画作转化为带日历上下文的日记条目，让祖父母通过安全的网页界面随时查看和评论 | 📦 | ⭐⭐ |
 | [日历冲突解决器](usecases/日历冲突解决器/README.md) | 自动扫描多个日历发现日程冲突和不可能的连续安排，提供重新预约建议并追踪未解决事项 | 🔔 📦 | ⭐⭐ |
+| [团队仪式规划器](usecases/团队仪式规划器/README.md) | 基于团队仪式、会议卫生和运营节奏信号构建周期性团队仪式数据包，自动标记延迟和协调风险供人事负责人使用 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
