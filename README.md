@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-118-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-101-9cf"><img src="https://img.shields.io/badge/用例数量-119-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -249,6 +249,7 @@
 | [凌晨5点基础设施健康检查](usecases/凌晨5点基础设施健康检查/13-5am-infrastructure-health-check.md) | 每天凌晨5点自动检查服务器磁盘、内存、负载和备份状态，在人类上班前主动发现并告警基础设施问题 | 🔔 | ⭐⭐ |
 | [运行时安全加固](usecases/运行时安全加固/runtime-security-hardening.md) | 使用 PRISM 为 OpenClaw 添加运行时安全防御层，拦截提示注入、执行滥用、凭证泄露和文件篡改，支持 10 个生命周期钩子、HMAC 审计日志和安全仪表盘 | 📦 | ⭐⭐ |
 | [Opik可观测性追踪](usecases/Opik可观测性追踪/opik-openclaw-observability.md) | 通过 Opik 为 OpenClaw 添加端到端可观测性，集中查看 LLM/工具/子智能体的追踪链路、错误和成本用量，支持快速故障排查和费用优化 | 📦 | ⭐⭐ |
+| [依赖漂移监控塔](usecases/依赖漂移监控塔/README.md) | 基于依赖更新和未解决的包漂移，构建周期性优先级依赖风险队列，按风险、重复率和交付影响排序，生成供运维人员审查的优先级队列 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
