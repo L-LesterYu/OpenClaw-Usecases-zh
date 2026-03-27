@@ -82,11 +82,12 @@
 
 | 用例 | 说明 | 标记 |
 |------|------|------|
-| [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过论文 ID 直接获取并对话式阅读分析 arXiv 论文 | ✅ ⭐ |
 | [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 为 OpenClaw 记忆文件加上按含义检索的能力 | ✅ ⭐ |
 | [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 把保存的内容变成可搜索的语义知识库 | ✅ ⭐ |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，随时记录灵感和想法 | ✅ ⭐ |
 | [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 每日习惯签到 + 自适应提醒 + 周报分析 | ✅ ⭐ |
+| [新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源新闻订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 | ⭐ |
+| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐ |
 
 ---
 
@@ -156,7 +157,7 @@
 | [健康与症状追踪](usecases/健康与症状追踪/health-symptom-tracker.md) | 自动追踪饮食和症状，每周分析规律识别潜在食物过敏源 | 🔔 ✅ | ⭐ |
 | [食物照片营养记录](usecases/食物照片营养记录/food-photo-nutrition-logging.md) | 通过聊天文字或食物照片自动记录每日热量和宏量营养素，无需手动填写饮食日记 | 📦 | ⭐⭐ |
 | [家庭日历聚合与家务助手](usecases/家庭日历聚合与家务助手/family-calendar-household-assistant.md) | 聚合多日历生成简报，自动创建预约事件，管理家庭库存 | 🔔 📦 | ⭐⭐ |
-| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐⭐ |
+| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐ |
 | [活动嘉宾确认](usecases/活动嘉宾确认/event-guest-confirmation.md) | 通过 SuperCall 自动拨打嘉宾电话确认出席，收集备注并汇总 | 📦 | ⭐⭐⭐ |
 | [电话来电通知](usecases/电话来电通知/phone-call-notifications.md) | 通过 clawr.ing 拨打真实电话作为紧急通知通道，支持双向对话 | 📦 | ⭐⭐⭐ |
 | [电话语音助手](usecases/电话语音助手/phone-based-personal-assistant.md) | 通过 ClawdTalk 让 OpenClaw 接听和拨打电话，任何电话都能变成 AI 语音助手入口 | 📦 | ⭐⭐⭐ |
