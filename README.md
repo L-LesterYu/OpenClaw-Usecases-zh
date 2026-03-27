@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-120-9cf"><img src="https://img.shields.io/badge/用例数量-120-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-121-9cf"><img src="https://img.shields.io/badge/用例数量-121-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -343,6 +343,7 @@
 | [邮件通信副驾驶](usecases/邮件通信副驾驶/email-communications-copilot-zh.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
 | [AI合同签署](usecases/AI合同签署/ai-contract-signing-zh.md) | AI驱动的合同签署工具，智能体自动起草NDA、合同、提案，通过电子签名完成双方签署，生成SHA-256认证防篡改PDF | 📦 💰 | ⭐⭐ |
 | [销售通话准备助手](usecases/销售通话准备助手/README.md) | 基于账户历史、日历上下文和待处理事项自动生成简明的销售通话前简报，包含目标、利益相关者图谱、风险和下一步行动建议 | 🔔 📦 | ⭐⭐ |
+| [客户反馈挖掘器](usecases/客户反馈挖掘器/README.md) | 聚合客户反馈信号，聚类重复痛点和需求，生成带证据和建议负责人的产品级可执行简报，每周自动运行识别高影响主题 | 🔔 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 客户服务与销售 — 国内替代方案</summary>
