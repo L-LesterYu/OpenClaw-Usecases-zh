@@ -339,6 +339,7 @@
 | [多渠道AI客服](usecases/多渠道AI客服/multi-channel-customer-service.md) | 将 WhatsApp、Instagram、邮件、Google 评论整合到 AI 收件箱，24/7 自动回复 | 📦 | ⭐⭐⭐ |
 | [个人CRM](usecases/个人CRM/personal-crm.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
+| [B2B AI销售开发代表](usecases/B2B AI销售开发代表/b2b-sdr-agent.md) | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | 🔔 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 | [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
 | [邮件通信副驾驶](usecases/邮件通信副驾驶/email-communications-copilot-zh.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
@@ -353,6 +354,7 @@
 - 多渠道AI客服 → 🇨🇳 可替代为：**微信公众号、企业微信**作为客户触点
 - 个人CRM → 🇨🇳 通用性强，可直接使用
 - 本地CRM框架 → 🇨🇳 通用性强，DenchClaw 支持本地部署
+- B2B AI销售开发代表 → 🇨🇳 可替代为：**微信、企业微信**替代 WhatsApp，**飞书群、钉钉群**替代 Telegram，**QQ邮箱、163邮箱**替代 Gmail，7层上下文架构可直接复用
 - SLA守护者 → 🇨🇳 可替代为：**飞书群、钉钉群**替代 Slack 推送，**QQ邮箱、163邮箱**替代 Gmail
 - 邮件自动分类器 → 🇨🇳 可替代为：**QQ邮箱、163邮箱**替代 Gmail，分拣逻辑通用
 
