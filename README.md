@@ -86,8 +86,8 @@
 | [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 把保存的内容变成可搜索的语义知识库 | ✅ ⭐ |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，随时记录灵感和想法 | ✅ ⭐ |
 | [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 每日习惯签到 + 自适应提醒 + 周报分析 | ✅ ⭐ |
-| [新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源新闻订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 | ⭐ |
-| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐ |
+| [新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源新闻订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 ⭐ |
+| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 ⭐ |
 
 ---
 
