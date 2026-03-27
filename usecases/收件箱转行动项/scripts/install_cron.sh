@@ -26,4 +26,4 @@ openclaw cron add \
   --channel "$DELIVERY_CHANNEL" \
   --to "$DELIVERY_TARGET"
 
-echo "已安装: $CRON_NAME"
+echo "已安装：$CRON_NAME"
