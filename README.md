@@ -254,6 +254,7 @@
 | [运行时安全加固](usecases/运行时安全加固/runtime-security-hardening.md) | 使用 PRISM 为 OpenClaw 添加运行时安全防御层，拦截提示注入、执行滥用、凭证泄露和文件篡改，支持 10 个生命周期钩子、HMAC 审计日志和安全仪表盘 | 📦 | ⭐⭐ |
 | [Opik可观测性追踪](usecases/Opik可观测性追踪/opik-openclaw-observability.md) | 通过 Opik 为 OpenClaw 添加端到端可观测性，集中查看 LLM/工具/子智能体的追踪链路、错误和成本用量，支持快速故障排查和费用优化 | 📦 | ⭐⭐ |
 | [依赖漂移监控塔](usecases/依赖漂移监控塔/README.md) | 基于依赖更新和未解决的包漂移，构建周期性优先级依赖风险队列，按风险、重复率和交付影响排序，生成供运维人员审查的优先级队列 | 🔔 📦 | ⭐⭐ |
+| [沙盒化多机器人管理](usecases/沙盒化多机器人管理/沙盒化多机器人管理.md) | 通过原生桌面GUI管理多个OpenClaw实例，每个机器人在独立Docker容器中运行，默认禁用网络确保安全隔离，支持一键启停和资源监控 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
