@@ -294,6 +294,7 @@
 |------|------|------|------|
 | [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 将保存的内容构建为可搜索的语义知识库，支持 URL 自动抓取 | ✅ 📦 | ⭐ |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，通过短信记录灵感，配合可搜索仪表板检索 | ✅ 📦 | ⭐ |
+| [语义记忆搜索优化](usecases/semantic-memory-search-optimized.md) | 在现有语义记忆搜索基础上使用 memsearch 添加向量驱动的语义搜索功能，支持混合搜索、智能去重和自动同步，让您通过含义而非关键词即时找到任何过去的记忆 | 🔔 | ⭐⭐ |
 | [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 基于向量驱动的语义搜索为记忆文件提供按含义检索能力，结合混合搜索与自动索引确保记忆始终可查，支持多种嵌入提供商和智能去重功能 | ✅ | ⭐ |
 | [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过 ID 获取 arXiv 论文，对话式阅读分析，支持多论文对比 | ✅ | ⭐ |
 | [HuggingFace论文研究发现](usecases/HuggingFace论文研究发现/hf-papers-research-discovery.md) | 对话式发现、筛选和深度阅读 Hugging Face 热门 ML 论文，支持每日热门浏览、关键词搜索、摘要阅读和 LaTeX 源码深度解读 | ✅ | ⭐ |
