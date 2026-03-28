@@ -164,6 +164,7 @@
 | [多渠道个人助手](usecases/多渠道个人助手/multi-channel-assistant.md) | 将 Telegram、Slack、Google Workspace、Todoist、Asana 整合到一个 AI 助手中，基于话题路由请求 | 📦 | ⭐⭐⭐ |
 | [多智能体专业团队](usecases/多智能体专业团队/multi-agent-team.md) | 为独立创始人配置多个专业化 AI 智能体，通过单个 Telegram 群聊控制，共享记忆协作 | 📦 | ⭐⭐⭐ |
 | [项目状态管理](usecases/项目状态管理/project-state-management.md) | 用事件驱动系统替代看板，通过自然语言对话自动追踪项目进度、决策和阻塞 | 📦 | ⭐⭐⭐ |
+| [自主项目管理](usecases/自主项目管理/自主项目管理.md) | 基于子智能体的去中心化项目管理模式，通过共享STATE.yaml文件协调多智能体并行执行任务，实现无中央调度器的自主项目推进 | 📦 | ⭐⭐⭐ |
 | [比价购物助手](usecases/比价购物助手/price-comparison-shopper.md) | 在线购物时自动跨平台搜索比价、查找优惠券并推荐最优方案，一条消息找到最低价 | ✅ | ⭐ |
 | [RSS新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源 RSS 订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 | ⭐ |
 | [预约与订位助手](usecases/预约与订位助手/63-booking-appointment-agent.md) | 通过 AI 智能体自动完成餐厅、医疗、家政等各类预约和订位流程，搜索比较选项后一键预订并同步日历 | 📦 | ⭐⭐ |
