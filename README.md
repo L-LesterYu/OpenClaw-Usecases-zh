@@ -20,6 +20,7 @@
 | 电商多 Agent 架构 | 电商多 Agent 架构：从查数到全链路自动运营 - 统一数据入口、Skill 即能力、多 Agent 角色分工、主动通知、多渠道嵌入、成本可控 | usecases/电商多 Agent 架构/cn-ecommerce-multi-agent.md |
 | Agent-Swarm 一人开发团队 | 通过上下文实现专业化，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的效率 | usecases/Agent-Swarm-一人开发团队/README.md |
 | 能签单的AI员工 | 将OpenClaw转换为成交高手，自动起草合同并通过电子签名发送，实现从线索到签署合同的全程自动化 | usecases/AI合同签署/ai-contract-signing-zh.md |
+| 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线.md |
 
 ## 📖 项目简介
 
