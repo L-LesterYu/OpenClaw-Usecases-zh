@@ -378,6 +378,7 @@
 | [AI-YouTube视频剪辑](usecases/AI-YouTube视频剪辑/ai-youtube-video-editing.md) | 通过Tubeify API自动移除YouTube原始录制中的停顿、填充词和空白片段，提交视频URL即可获得精修视频 | 📦 | ⭐ |
 | [角色图像生成](usecases/角色图像生成/neta-character-image-generation.md) | 通过自然语言直接在聊天中为你的角色生成 AI 图像，支持任意场景、风格和比例，无需打开网页 UI | 📦 | ⭐⭐ |
 | [AI音乐平台发布器](usecases/AI音乐平台发布器/ai-music-platform.md) | AI 智能体在 moltdj 平台自主注册、生成原创音乐、发布并社交互动，通过 x402 支付赚取打赏和版税 | 📦 | ⭐⭐ |
+| [播客制作流水线](usecases/podcast-production-pipeline.md) | 多智能体串联处理从选题到发布的完整播客制作流程，包括节目调研、大纲与脚本、节目笔记、社交媒体素材包和节目描述 | 🔔 📦 | ⭐⭐ |
 
 > 💡 此分类持续扩展中，欢迎提交 PR 添加更多创意与开发类用例！
 
