@@ -371,7 +371,7 @@
 
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
-| [自主教育游戏开发流水线](usecases/自主教育游戏开发流水线/autonomous-game-dev-pipeline.md) | 自主管理游戏从创建到维护的完整生命周期，每 7 分钟产出一款新游戏 | 📦 | ⭐⭐⭐ |
+| [自主教育游戏开发流水线](usecases/自主教育游戏开发流水线/autonomous-game-dev-pipeline.zh.md) | 自主管理游戏从创建到维护的完整生命周期，每 7 分钟产出一款新游戏或修复一个 Bug，严格执行 Bug 优先策略 | 📦 | ⭐⭐⭐ |
 | [AI视频剪辑](usecases/AI视频剪辑/ai-video-editing.md) | 通过对话完成视频剪辑：裁剪合并、背景音乐、字幕烧录、调色和竖屏适配，支持批量处理，无需时间线编辑器 | 📦 | ⭐⭐ |
 | [AI-YouTube视频剪辑](usecases/AI-YouTube视频剪辑/ai-youtube-video-editing.md) | 通过Tubeify API自动移除YouTube原始录制中的停顿、填充词和空白片段，提交视频URL即可获得精修视频 | 📦 | ⭐ |
 | [角色图像生成](usecases/角色图像生成/neta-character-image-generation.md) | 通过自然语言直接在聊天中为你的角色生成 AI 图像，支持任意场景、风格和比例，无需打开网页 UI | 📦 | ⭐⭐ |
