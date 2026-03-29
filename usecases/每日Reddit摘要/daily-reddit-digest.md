@@ -16,8 +16,12 @@
 ## 设置方法
 安装技能后，向你的 OpenClaw 发送以下指令：
 ```text
-I want you to give me the top performing posts from the following subreddits.
-<paste the list here>
-Create a separate memory for the reddit processes, about the type of posts I like to see and every day ask me if I liked the list you provided. Save my preference as rules in the memory to use for a better digest curation. (e.g. do not include memes.)
-Every day at 5pm, run this process and give me the digest.
+我希望你能为我提供以下子版块中表现最好的帖子。
+<在此粘贴列表>
+为 Reddit 进程序列创建单独的记忆文件，记录我喜欢的帖子类型，每天询问我是否喜欢你提供的列表。将我的偏好作为规则保存到记忆中，用于更好地摘编精选内容。（例如：不要包含梗图。）
+每天下午5点，运行此流程并给我发送摘要。
 ```
+
+---
+
+**原文链接**：[English Version](https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/daily-reddit-digest.md)
