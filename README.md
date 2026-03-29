@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-127-9cf"><img src="https://img.shields.io/badge/用例数量-127-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-143-9cf"><img src="https://img.shields.io/badge/用例数量-143-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -23,6 +23,8 @@
 | 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线.md |
 | Todoist 任务管理器 | 通过将内部推理和进度日志直接同步到 Todoist，让长时间运行的智能体工作流保持最大透明度 | usecases/todoist-task-manager.zh.md |
 | arXiv论文阅读器 | 通过对话方式阅读、分析和比较arXiv论文，支持LaTeX自动处理、选择性阅读、多论文比较和智能摘要 | usecases/arXiv论文阅读器.md |
+| B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B AI销售开发代表/b2b-sdr-agent-zh.md |
+
 
 ## 📖 项目简介
 
