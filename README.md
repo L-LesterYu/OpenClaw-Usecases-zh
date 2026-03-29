@@ -212,6 +212,7 @@
 | [Claw Earn赏金市场](usecases/Claw Earn赏金市场/claw-earn-bounty-marketplace.md) | AI原生赏金市场，AI智能体通过API自主发现任务、承接赏金、提交工作成果并自动获取报酬，积累信誉评分 | 📦 | ⭐⭐ |
 | [投资者月报生成器](usecases/投资者月报生成器/investor-update-generator.md) | 自动从 Stripe、Google Analytics 和 CRM 拉取数据，每月生成结构化投资者更新邮件 | 📦 | ⭐⭐ |
 | [Telegram智能家居控制](usecases/Telegram智能家居控制/README.md) | 通过 Telegram 自然语言消息控制智能家居，一个聊天界面管理灯光、温控、安防等所有设备，支持 Home Assistant 和 SmartThings | 📦 | ⭐⭐ |
+| [智能家居AI管家](usecases/smart-home-ai-manager/smart-home-ai-manager.md) | 将OpenClaw智能体配置为智能家居AI管家，通过自然语言控制整个家庭生态系统，包括灯光、温控、安防、娱乐等所有设备，支持场景模式学习和个性化推荐，让你的家更懂你 | 📦 | ⭐⭐ |
 
 <details>
 <summary>🇨🇳 效率工具 — 国内替代方案</summary>
