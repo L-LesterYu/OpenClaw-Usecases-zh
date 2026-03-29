@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/L-LesterYu/OpenClaw-Usecases-zh/stargazers"><img src="https://img.shields.io/github/stars/L-LesterYu/OpenClaw-Usecases-zh?style=social" alt="Stars"></a>
     <a href="https://github.com/hesamsheikh/awesome-openclaw-usecases"><img src="https://img.shields.io/badge/上游仓库-awesome--openclaw--usecases-blue" alt="Upstream"></a>
-    <a href="https://img.shields.io/badge/用例数量-145-9cf"><img src="https://img.shields.io/badge/用例数量-145-9cf" alt="Usecases"></a>
+    <a href="https://img.shields.io/badge/用例数量-146-9cf"><img src="https://img.shields.io/badge/用例数量-146-9cf" alt="Usecases"></a>
   </p>
 </p>
 
@@ -27,6 +27,7 @@
 | B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B AI销售开发代表/b2b-sdr-agent-zh.md |
 | A股每日行情监控 | 每个交易日自动采集A股行情数据，生成盘前简报和盘后复盘，包括大盘指数、板块异动、资金流向和自选股监控 | usecases/A股每日行情监控/cn-a-share-monitor.md |
 | Agent Swarm 一人开发团队 | Agent Swarm 一人开发团队（全配置指南）- OpenClaw作为编排层，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的高效协作 | usecases/Agent-Swarm-一人开发团队/README.md |
+| LaTeX论文写作 | LaTeX论文写作助手 - 通过对话方式协作编写LaTeX论文，支持即时编译为PDF，无需本地LaTeX环境设置 | usecases/latex-paper-writing-zh.md |
 
 ## 📖 项目简介
 
