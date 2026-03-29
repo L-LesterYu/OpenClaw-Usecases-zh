@@ -21,6 +21,7 @@
 | Agent-Swarm 一人开发团队 | 通过上下文实现专业化，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的效率 | usecases/Agent-Swarm-一人开发团队/README.md |
 | 能签单的AI员工 | 将OpenClaw转换为成交高手，自动起草合同并通过电子签名发送，实现从线索到签署合同的全程自动化 | usecases/AI合同签署/ai-contract-signing-zh.md |
 | 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线.md |
+| Todoist 任务管理器 | 通过将内部推理和进度日志直接同步到 Todoist，让长时间运行的智能体工作流保持最大透明度 | usecases/todoist-task-manager.zh.md |
 | arXiv论文阅读器 | 通过对话方式阅读、分析和比较arXiv论文，支持LaTeX自动处理、选择性阅读、多论文比较和智能摘要 | usecases/arXiv论文阅读器.md |
 
 ## 📖 项目简介
