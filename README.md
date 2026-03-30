@@ -7,6 +7,7 @@
 | 场景名称 | 简短中文描述 | 文件路径 |
 |---------|------------|---------|
 | 办公自动化套件 | 将知识工作者日常重复性工作交给 OpenClaw 自动处理，包括邮件管理、文件整理、会议纪要、周报生成和日程同步等功能 | `usecases/cn-office-automation.md` |
+| 钉钉 AI 助手 | 将 OpenClaw 部署为钉钉机器人，支持对话式 AI 助手、Stream 模式、多媒体支持和 AI 卡片流式输出，无需公网 IP 即可运行 | `usecases/cn-dingtalk-ai-assistant.md` |
 
 ## 如何使用
 
