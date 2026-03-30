@@ -10,6 +10,7 @@
 | 钉钉 AI 助手 | 将 OpenClaw 部署为钉钉机器人，支持对话式 AI 助手、Stream 模式、多媒体支持和 AI 卡片流式输出，无需公网 IP 即可运行 | `usecases/cn-dingtalk-ai-assistant.md` |
 | 企业微信 AI 助手 | 将 OpenClaw 部署为企业微信应用，支持企业微信内对话式 AI、个人微信插件集成、流式输出、群聊 AI 助手和多媒体支持 | `usecases/cn-wecom-ai-assistant.md` |
 | 小红书内容自动化 | 通过 AI 自动化完成小红书运营全流程，包括热点检测、文案撰写、封面图生成和排期发布，提升自媒体运营效率 | `usecases/cn-xiaohongshu-automation.md` |
+| 能签单的 AI 员工 | 将 OpenClaw 变为成交高手，自动起草合同、NDA 或方案书并通过电子签名发送，实现从线索到签署合同的全程自动化 | `usecases/能签单的AI员工.md` |
 
 ## 如何使用
 
