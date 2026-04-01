@@ -14,6 +14,19 @@
 
 ---
 
+| 场景名称 | 简短中文描述 | 文件路径 |
+|---------|-------------|----------|
+| 智能体安全扫描 | 使用 OpenClaw + ClawGuard 自动扫描技能和插件，保护你的 AI 智能体免受提示注入、隐私泄露和供应链攻击 | usecases/智能体安全扫描/agent-security-scanning.zh.md |
+| 电商多 Agent 架构 | 电商多 Agent 架构：从查数到全链路自动运营 - 统一数据入口、Skill 即能力、多 Agent 角色分工、主动通知、多渠道嵌入、成本可控 | usecases/电商多 Agent 架构/cn-ecommerce-multi-agent.md |
+| Agent-Swarm 一人开发团队 | 通过上下文实现专业化，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的效率 | usecases/Agent-Swarm-一人开发团队/README.md |
+| 能签单的AI员工 | 将OpenClaw转换为成交高手，自动起草合同并通过电子签名发送，实现从线索到签署合同的全程自动化 | usecases/AI合同签署/ai-contract-signing-zh.md |
+| 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线/autonomous-game-dev-pipeline.zh.md |
+| Todoist 任务管理器 | 通过将内部推理和进度日志直接同步到 Todoist，让长时间运行的智能体工作流保持最大透明度 | usecases/todoist-task-manager.zh.md |
+| arXiv论文阅读器 | 通过对话方式阅读、分析和比较arXiv论文，支持LaTeX自动处理、选择性阅读、多论文比较和智能摘要 | usecases/arXiv论文阅读器/arxiv-paper-reader.md |
+| B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B AI销售开发代表/README.md |
+| A股每日行情监控 | 每个交易日自动采集A股行情数据，生成盘前简报和盘后复盘，包括大盘指数、板块异动、资金流向和自选股监控 | usecases/A股每日行情监控/README.md |
+| Agent Swarm 一人开发团队 | Agent Swarm 一人开发团队（全配置指南）- OpenClaw作为编排层，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的高效协作 | usecases/Agent-Swarm-一人开发团队/README.md |
+
 ## 📖 项目简介
 
 本项目是对 各类OpenClaw的usecases 的**中文翻译 + 国内替代方案**项目以及更精细化的整理，帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
@@ -82,12 +95,12 @@
 
 | 用例 | 说明 | 标记 |
 |------|------|------|
-| [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 基于向量驱动的语义搜索为记忆文件提供按含义检索能力，结合混合搜索与自动索引确保记忆始终可查，支持多种嵌入提供商和智能去重功能 | ✅ ⭐ |
-| [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 把保存的内容变成可搜索的语义知识库 | ✅ ⭐ |
+| [语义记忆搜索](usecases/语义记忆搜索/README.md) | 基于向量驱动的语义搜索为记忆文件提供按含义检索能力，结合混合搜索与自动索引确保记忆始终可查，支持多种嵌入提供商和智能去重功能 | ✅ ⭐ |
+| [个人知识库RAG](usecases/个人知识库RAG/README.md) | 把保存的内容变成可搜索的语义知识库 | ✅ ⭐ |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，随时记录灵感和想法 | ✅ ⭐ |
-| [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 每日习惯签到 + 自适应提醒 + 周报分析 | ✅ ⭐ |
-| [新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源新闻订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 ⭐ |
-| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 ⭐ |
+| [习惯追踪与问责教练](usecases/习惯追踪与问责教练/README.md) | 每日习惯签到 + 自适应提醒 + 周报分析 | ✅ ⭐ |
+| [新闻聚合器](usecases/RSS新闻聚合器/README.md) | 多源新闻订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 ⭐ |
+| [Todoist任务管理器](usecases/Todoist任务管理器/README.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 ⭐ |
 
 ---
 
@@ -112,20 +125,20 @@
 
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
-| [每日Reddit摘要](usecases/每日Reddit摘要/daily-reddit-digest.md) | 每天运行一次摘要推送，精选最热门帖子 | 🔔 📦 | ⭐⭐ |
+| [每日Reddit摘要](usecases/每日Reddit摘要/README.md) | 每天运行一次摘要推送，精选最热门帖子 | 🔔 📦 | ⭐⭐ |
 | [每日YouTube摘要](usecases/每日YouTube摘要/daily-youtube-digest.md) | 获取关注频道的个性化新视频摘要 | 🔔 📦 | ⭐⭐ |
 | [X账号分析](usecases/X账号分析/x-account-analysis.md) | AI 驱动的 X 账号定性分析，发现发帖模式和互动差异 | 📦 | ⭐⭐ |
-| [XTwitter自动化](usecases/XTwitter自动化/x-twitter-automation.md) | 通过自然语言全面操控 X/Twitter，发推、回复、搜索、抽奖等 | 📦 | ⭐⭐⭐ |
+| [XTwitter自动化](usecases/XTwitter自动化/README.md) | 通过自然语言全面操控 X/Twitter，发推、回复、搜索、抽奖等 | 📦 | ⭐⭐⭐ |
 | [多源科技新闻摘要](usecases/多源科技新闻摘要/multi-source-tech-news-digest.md) | 聚合 109+ 信源的科技新闻，智能评分去重后推送 | 🔔 📦 | ⭐⭐ |
-| [YouTube内容流水线](usecases/YouTube内容流水线/youtube-content-pipeline.md) | 自动化视频创意侦察和研究流水线，语义去重避免重复选题，Slack 链接触发自动研究 | 🔔 📦 | ⭐⭐ |
-| [播客制作流水线](usecases/播客制作流水线/podcast-production-pipeline.md) | 自动化播客制作全流程：嘉宾研究、大纲脚本、节目笔记、社交媒体推广素材 | 📦 | ⭐⭐ |
+| [YouTube内容流水线](usecases/YouTube内容流水线/README.md) | 自动化视频创意侦察和研究流水线，语义去重避免重复选题，Slack 链接触发自动研究 | 🔔 📦 | ⭐⭐ |
+| [播客制作流水线](usecases/播客制作流水线/README.md) | 自动化播客制作全流程：嘉宾研究、大纲脚本、节目笔记、社交媒体推广素材 | 📦 | ⭐⭐ |
 | [小红书营销全自动工作流](usecases/小红书营销全自动工作流/tensorslab-xiaohongshu-marketing.md) | TensorsLab + 小红书营销全自动工作流，热点抓取 → 文案生成 → 配图生成 → 飞书归档，支持每日定时执行 | 🔔 📦 | ⭐⭐⭐ |
 | [内容创意挖掘器](usecases/内容创意挖掘器/README.md) | 每周从网页和 YouTube 采集信号，自动过滤重复内容，生成带来源佐证的排名创意简报 | 🔔 📦 | ⭐⭐ |
 | [Instagram故事管理器](usecases/Instagram故事管理器/53-instagram-story-manager.md) | 将智能体配置为 Instagram 故事管理助手，定时发布内容、回应互动、维护受众关系，通过浏览器自动化完成操作 | 🔔 📦 | ⭐⭐ |
 | [PDF文章转播客](usecases/PDF文章转播客/pdf-articles-to-podcast.md) | 利用 ai-podcast 技能将 PDF URL 转化为双人主持播客音频，配合 Chat with PDF 预提取关键要点，返回可分享的收听链接 | 📦 💰 | ⭐⭐ |
 | [微信公众号自动发布](usecases/微信公众号自动发布/wechat-auto-publish.md) | 从飞书或 Telegram 聊天频道将 Markdown 文章自动发布到微信公众号，支持扫码登录和确认流程 | 📦 | ⭐⭐ |
 | [YouTube研究工作台](usecases/YouTube研究工作台/README.md) | 将 YouTube 定向监控转化为结构化可执行的研究笔记，基于字幕生成洞见摘要并发布关键要点和行动建议 | 🔔 📦 | ⭐⭐ |
-| [多智能体内容工厂](usecases/多智能体内容工厂/content-factory.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
+| [多智能体内容工厂](usecases/多智能体内容工厂/README.md) | Discord 内搭建多智能体内容工厂，链式流水线自动产出内容 | 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 社交媒体与内容 — 国内替代方案</summary>
@@ -153,11 +166,11 @@
 | [每日晨间简报](usecases/每日晨间简报/custom-morning-brief.md) | 定时发送个性化晨间简报，涵盖新闻、任务、创意和 AI 建议 | 🔔 | ⭐ |
 | [收件箱清理](usecases/收件箱清理/inbox-declutter.md) | 自动清理订阅邮件，生成精选摘要并学习用户偏好 | 🔔 📦 | ⭐⭐ |
 | [会议纪要与行动项](usecases/会议纪要与行动项/meeting-notes-action-items.md) | 将会议纪要自动转化为结构化笔记，提取行动项并创建到 Jira/Todoist | 📦 | ⭐⭐ |
-| [习惯追踪与问责教练](usecases/习惯追踪与问责教练/habit-tracker-accountability-coach.md) | 每日习惯签到追踪，自适应提醒语气，周报分析模式 | 🔔 ✅ | ⭐ |
+| [习惯追踪与问责教练](usecases/习惯追踪与问责教练/README.md) | 每日习惯签到追踪，自适应提醒语气，周报分析模式 | 🔔 ✅ | ⭐ |
 | [健康与症状追踪](usecases/健康与症状追踪/health-symptom-tracker.md) | 自动追踪饮食和症状，每周分析规律识别潜在食物过敏源 | 🔔 ✅ | ⭐ |
 | [食物照片营养记录](usecases/食物照片营养记录/food-photo-nutrition-logging.md) | 通过聊天文字或食物照片自动记录每日热量和宏量营养素，无需手动填写饮食日记 | 📦 | ⭐⭐ |
 | [家庭日历聚合与家务助手](usecases/家庭日历聚合与家务助手/family-calendar-household-assistant.md) | 聚合多日历生成简报，自动创建预约事件，管理家庭库存 | 🔔 📦 | ⭐⭐ |
-| [Todoist任务管理器](usecases/Todoist任务管理器/todoist-task-manager.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐ |
+| [Todoist任务管理器](usecases/Todoist任务管理器/README.md) | 将智能体推理和进度日志同步到 Todoist，实现任务可视化 | 📦 | ⭐ |
 | [活动嘉宾确认](usecases/活动嘉宾确认/event-guest-confirmation.md) | 通过 SuperCall 自动拨打嘉宾电话确认出席，收集备注并汇总 | 📦 | ⭐⭐⭐ |
 | [电话来电通知](usecases/电话来电通知/phone-call-notifications.md) | 通过 clawr.ing 拨打真实电话作为紧急通知通道，支持双向对话 | 📦 | ⭐⭐⭐ |
 | [电话语音助手](usecases/电话语音助手/phone-based-personal-assistant.md) | 通过 ClawdTalk 让 OpenClaw 接听和拨打电话，任何电话都能变成 AI 语音助手入口 | 📦 | ⭐⭐⭐ |
@@ -166,7 +179,7 @@
 | [项目状态管理](usecases/项目状态管理/project-state-management.md) | 用事件驱动系统替代看板，通过自然语言对话自动追踪项目进度、决策和阻塞 | 📦 | ⭐⭐⭐ |
 | [自主项目管理](usecases/自主项目管理/自主项目管理.md) | 基于子智能体的去中心化项目管理模式，通过共享STATE.yaml文件协调多智能体并行执行任务，实现无中央调度器的自主项目推进 | 📦 | ⭐⭐⭐ |
 | [比价购物助手](usecases/比价购物助手/price-comparison-shopper.md) | 在线购物时自动跨平台搜索比价、查找优惠券并推荐最优方案，一条消息找到最低价 | ✅ | ⭐ |
-| [RSS新闻聚合器](usecases/RSS新闻聚合器/20-rss-news-aggregator.md) | 多源 RSS 订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 | ⭐ |
+| [RSS新闻聚合器](usecases/RSS新闻聚合器/README.md) | 多源 RSS 订阅聚合，自动去重与摘要生成，每 4 小时推送精选新闻简报 | 🔔 | ⭐ |
 | [预约与订位助手](usecases/预约与订位助手/63-booking-appointment-agent.md) | 通过 AI 智能体自动完成餐厅、医疗、家政等各类预约和订位流程，搜索比较选项后一键预订并同步日历 | 📦 | ⭐⭐ |
 | [天气预报晨报](usecases/天气预报晨报/weather-morning-report.md) | 每天早上通过 Telegram 自动推送天气预报，包含 4 个时段的温度、体感、湿度和风速，极端天气自动告警 | 🔔 💰 📦 | ⭐⭐ |
 | [天气穿搭顾问](usecases/天气穿搭顾问/README.md) | 每天早上根据天气预报和日程安排自动推荐今日穿搭，包括温度分层建议、天气预警和风格偏好适配 | 🔔 📦 | ⭐⭐ |
@@ -187,7 +200,7 @@
 | [竞品动态追踪](usecases/竞品动态追踪/README.md) | 每周采集竞品产品动态，按主题聚类（定价、产品、策略等），以置信度和紧急程度评估并推荐可执行的应对措施 | 🔔 📦 | ⭐⭐ |
 | [Agent Swarm 一人开发团队](usecases/Agent-Swarm-一人开发团队/README.md) | 基于 OpenClaw 的一人开发团队系统，通过异构模型编排、Git Worktree隔离、tmux会话管理、三模型代码审查、Cron监控循环、自改进Prompt系统，实现高效的一人开发团队运作，包含国内适配支持飞书/钉钉通知、Codex替代方案、国内监控平台 | 🔔 📦 | ⭐⭐⭐ |
 | [PDF文档处理工作台](usecases/PDF文档处理工作台/README.md) | 面向PDF和音频重度处理场景的自动化文档接收与摘要流程，定时扫描工作目录自动生成文档摘要和编辑建议，并从音频笔记中提取行动项 | 🔔 📦 | ⭐⭐ |
-| [语音笔记转任务](usecases/16-voice-notes-to-tasks/README.md) | 将语音笔记自动转录并提取为可执行任务，包含负责人、截止日期和优先级标签，支持定时批量处理 | 🔔 📦 | ⭐⭐ |
+| [语音笔记转任务](usecases/语音笔记转任务/README.md) | 将语音笔记自动转录并提取为可执行任务，包含负责人、截止日期和优先级标签，支持定时批量处理 | 🔔 📦 | ⭐⭐ |
 | [语音命令助手](usecases/语音命令助手/voice-command-assistant.md) | 语音激活的智能助手，基于个人知识图谱解析实体，支持语音发邮件、短信、提醒和搜索，配合 Percept 声纹授权确保安全 | 📦 | ⭐⭐⭐ |
 | [收件箱转行动项](usecases/收件箱转行动项/README.md) | 自动扫描收件箱邮件，提取行动项、截止日期和依赖关系，创建带置信度排序的任务队列，工作日每2小时运行一次 | 🔔 📦 | ⭐⭐ |
 | [家庭数字剪贴簿](usecases/家庭数字剪贴簿/family-digital-scrapbook.md) | 自动将家庭照片和孩子的画作转化为带日历上下文的日记条目，让祖父母通过安全的网页界面随时查看和评论 | 📦 | ⭐⭐ |
@@ -236,7 +249,7 @@
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
 | [自愈式家庭服务器](usecases/自愈式家庭服务器/self-healing-home-server.md) | 将 OpenClaw 变成自愈式运维智能体，自动检测、诊断并修复服务器故障 | 🔔 📦 | ⭐⭐⭐ |
-| [动态数据仪表盘](usecases/动态数据仪表盘/dynamic-dashboard.md) | 子智能体并行获取多数据源，生成实时仪表盘，支持阈值告警 | 🔔 📦 | ⭐⭐⭐ |
+| [动态数据仪表盘](usecases/动态数据仪表盘/README.md) | 子智能体并行获取多数据源，生成实时仪表盘，支持阈值告警 | 🔔 📦 | ⭐⭐⭐ |
 | [自主项目管理](usecases/自主项目管理/autonomous-project-management.md) | 共享状态文件实现去中心化并行项目管理，子智能体自主协调 | 📦 | ⭐⭐⭐ |
 | [域名注册助手](usecases/域名注册助手/domain-name-registration.md) | 通过自然对话在 1000+ 顶级域名中检查可用性、对比价格并完成域名注册，告别繁琐的注册商网站 | 📦 | ⭐⭐ |
 | [n8n工作流编排](usecases/n8n工作流编排/n8n-workflow-orchestration.md) | 通过 Webhook 将外部 API 交互委托给 n8n 工作流，智能体不接触凭证，可视化可锁定 | 📦 | ⭐⭐⭐ |
@@ -252,7 +265,7 @@
 | [模型费用指挥中心](usecases/模型费用指挥中心/README.md) | 每日模型用量与费用异常监控，按模型和供应商拆解费用，标记异常飙升及驱动因素，提供具体可行的费用优化建议 | 🔔 📦 | ⭐⭐ |
 | [认证门户监控](usecases/认证门户监控/authenticated-portal-monitoring.md) | 自动登录需要认证的 Web 门户提取数据并按计划发送截图或 PDF 报告，适用于计费仪表盘、供应商门户和内部管理面板 | 🔔 📦 | ⭐⭐ |
 | [任务控制中心](usecases/任务控制中心/mission-control-usecase.zh.md) | 多智能体任务编排运营层，自动扫描看板和聊天室任务，基于能力矩阵路由到合适智能体，跟踪生命周期并通过事件驱动通知保持同步 | 📦 | ⭐⭐⭐ |
-| [夜间Shell别名构建器](usecases/05-night-shell-alias-builder/README.md) | 睡觉时自动分析高频命令生成Shell别名，每天减少重复输入提升终端效率，支持安全检查、冲突检测和自动Git提交 | 🔔 | ⭐⭐ |
+| [夜间Shell别名构建器](usecases/夜间Shell别名构建器/README.md) | 睡觉时自动分析高频命令生成Shell别名，每天减少重复输入提升终端效率，支持安全检查、冲突检测和自动Git提交 | 🔔 | ⭐⭐ |
 | [家庭服务器插件操作系统](usecases/家庭服务器插件操作系统/README.md) | 通过 miniclaw-os 将 Mac mini 家庭服务器变为完全自主的 AI 操作系统，集成看板、SEO追踪、邮件、知识库、图像生成、桌面控制等插件套件 | 📦 | ⭐⭐⭐ |
 | [游戏服务器API管理](usecases/游戏服务器API管理/README.md) | 通过自然对话管理多人游戏服务器的完整生命周期：订购、配置、启停、监控、调试，支持 Valheim、Rust、ARK 等 17+ 款游戏，无需 MCP 只需 REST API | 📦 | ⭐⭐ |
 | [智能体审批网关](usecases/智能体审批网关/agent-ruler-approval-gates.md) | 在OpenClaw外围添加确定性策略执行、审批网关和审计凭证，让本地智能体以更小的爆炸半径和更清晰的操作可见性安全运行 | 📦 | ⭐⭐⭐ |
@@ -285,16 +298,16 @@
 
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
-| [个人知识库RAG](usecases/个人知识库RAG/knowledge-base-rag.md) | 将保存的内容构建为可搜索的语义知识库，支持 URL 自动抓取 | ✅ 📦 | ⭐ |
+| [个人知识库RAG](usecases/个人知识库RAG/README.md) | 将保存的内容构建为可搜索的语义知识库，支持 URL 自动抓取 | ✅ 📦 | ⭐ |
 | [第二大脑](usecases/第二大脑/second-brain.md) | 零阻力记忆采集系统，通过短信记录灵感，配合可搜索仪表板检索 | ✅ 📦 | ⭐ |
-| [语义记忆搜索优化](usecases/semantic-memory-search-optimized.md) | 在现有语义记忆搜索基础上使用 memsearch 添加向量驱动的语义搜索功能，支持混合搜索、智能去重和自动同步，让您通过含义而非关键词即时找到任何过去的记忆 | 🔔 | ⭐⭐ |
-| [语义记忆搜索](usecases/语义记忆搜索/semantic-memory-search.md) | 基于向量驱动的语义搜索为记忆文件提供按含义检索能力，结合混合搜索与自动索引确保记忆始终可查，支持多种嵌入提供商和智能去重功能 | ✅ | ⭐ |
+| [语义记忆搜索优化](usecases/语义记忆搜索/README.md) | 在现有语义记忆搜索基础上使用 memsearch 添加向量驱动的语义搜索功能，支持混合搜索、智能去重和自动同步，让您通过含义而非关键词即时找到任何过去的记忆 | 🔔 | ⭐⭐ |
+| [语义记忆搜索](usecases/语义记忆搜索/README.md) | 基于向量驱动的语义搜索为记忆文件提供按含义检索能力，结合混合搜索与自动索引确保记忆始终可查，支持多种嵌入提供商和智能去重功能 | ✅ | ⭐ |
 | [arXiv论文阅读器](usecases/arXiv论文阅读器/arxiv-paper-reader.md) | 通过 ID 获取 arXiv 论文，对话式阅读分析，支持多论文对比 | ✅ | ⭐ |
 | [HuggingFace论文研究发现](usecases/HuggingFace论文研究发现/hf-papers-research-discovery.md) | 对话式发现、筛选和深度阅读 Hugging Face 热门 ML 论文，支持每日热门浏览、关键词搜索、摘要阅读和 LaTeX 源码深度解读 | ✅ | ⭐ |
 | [市场调研与产品工厂](usecases/市场调研与产品工厂/market-research-product-factory.md) | 在 Reddit 和 X 上挖掘真实痛点，自动从调研到原型构建完整产品流水线 | 📦 | ⭐⭐ |
 | [构建前创意验证](usecases/构建前创意验证/pre-build-idea-validator.md) | 在构建前自动扫描 GitHub、HN、npm 等平台检查竞争情况，返回拥挤度评分 | 📦 | ⭐⭐ |
 | [财报追踪器](usecases/财报追踪器/earnings-tracker.md) | AI 驱动的财报追踪与摘要推送，实时掌握科技和 AI 公司财报动态 | 🔔 📦 | ⭐⭐ |
-| [三层记忆系统](usecases/三层记忆系统/04-three-tier-memory-system.md) | 兼顾速度与持久性的智能体记忆结构化方案，采用长期核心原则、每日事件日志和项目专项追踪三层架构 | ✅ | ⭐ |
+| [三层记忆系统](usecases/三层记忆系统/README.md) | 兼顾速度与持久性的智能体记忆结构化方案，采用长期核心原则、每日事件日志和项目专项追踪三层架构 | ✅ | ⭐ |
 | [每日学习日志](usecases/每日学习日志/57-daily-learning-journal.md) | 每天晚上通过智能体引导反思当日所学，自动记录日志并生成每周/每月成长报告 | 🔔 | ⭐ |
 | [生活记忆记录器](usecases/生活记忆记录器/60-memory-life-logger.md) | 自动捕获日常互动中的重要信息（生日、偏好、承诺等），智能提取分类，关键时刻提醒你成为更贴心的朋友和伙伴 | 🔔 📦 | ⭐⭐ |
 | [深度研究编排器](usecases/深度研究编排器/deep-research-orchestrator.md) | 通过浏览器中继同时调用 Claude、ChatGPT 和 Gemini 的深度研究功能，并行研究同一问题，交叉验证后综合生成一份经过验证的结论 | 📦 | ⭐⭐⭐ |
@@ -346,10 +359,10 @@
 | 用例 | 说明 | 标记 | 难度 |
 |------|------|------|------|
 | [多渠道AI客服](usecases/多渠道AI客服/multi-channel-customer-service.md) | 将 WhatsApp、Instagram、邮件、Google 评论整合到 AI 收件箱，24/7 自动回复 | 📦 | ⭐⭐⭐ |
-| [个人CRM](usecases/个人CRM/personal-crm.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
+| [个人CRM](usecases/个人CRM/README.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
 | [轻量个人CRM](usecases/轻量个人CRM/README.md) | 基于近期邮件和日历活动构建轻量联系人记忆系统，自动生成关系上下文和待办跟进提醒 | 🔔 📦 | ⭐⭐ |
 | [本地CRM框架](usecases/本地CRM框架/local-crm-framework.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
-| [B2B AI销售开发代表](usecases/B2B AI销售开发代表/b2b-sdr-agent.md) | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | 🔔 📦 | ⭐⭐⭐ |
+| [B2B AI销售开发代表](usecases/B2B AI销售开发代表/README.md) | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | 🔔 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 | [邮件自动分类器](usecases/邮件自动分类器/email-auto-classifier.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
 | [邮件通信副驾驶](usecases/邮件通信副驾驶/email-communications-copilot-zh.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
@@ -379,7 +392,7 @@
 | [通过聊天完成AI视频编辑](usecases/通过聊天完成AI视频编辑/ai-video编辑-通过聊天完成.md) | 将视频编辑转化为对话，支持自然语言描述修剪、添加字幕、调整色调等功能，无需时间线，无需GUI | 📦 | ⭐⭐ |
 | [AI-YouTube视频剪辑](usecases/AI-YouTube视频剪辑/ai-youtube-video-editing.md) | 通过Tubeify API自动移除YouTube原始录制中的停顿、填充词和空白片段，提交视频URL即可获得精修视频 | 📦 | ⭐ |
 | [角色图像生成](usecases/角色图像生成/neta-character-image-generation.md) | 通过自然语言直接在聊天中为你的角色生成 AI 图像，支持任意场景、风格和比例，无需打开网页 UI | 📦 | ⭐⭐ |
-| [AI音乐平台发布器](usecases/AI音乐平台发布器/ai-music-platform.md) | AI 智能体在 moltdj 平台自主注册、生成原创音乐、发布并社交互动，通过 x402 支付赚取打赏和版税 | 📦 | ⭐⭐ |
+| [AI音乐平台发布器](usecases/AI音乐平台发布器/README.md) | AI 智能体在 moltdj 平台自主注册、生成原创音乐、发布并社交互动，通过 x402 支付赚取打赏和版税 | 📦 | ⭐⭐ |
 
 > 💡 此分类持续扩展中，欢迎提交 PR 添加更多创意与开发类用例！
 
