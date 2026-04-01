@@ -14,19 +14,6 @@
 
 ---
 
-| 场景名称 | 简短中文描述 | 文件路径 |
-|---------|-------------|----------|
-| 智能体安全扫描 | 使用 OpenClaw + ClawGuard 自动扫描技能和插件，保护你的 AI 智能体免受提示注入、隐私泄露和供应链攻击 | usecases/智能体安全扫描.md |
-| 电商多 Agent 架构 | 电商多 Agent 架构：从查数到全链路自动运营 - 统一数据入口、Skill 即能力、多 Agent 角色分工、主动通知、多渠道嵌入、成本可控 | usecases/电商多 Agent 架构/cn-ecommerce-multi-agent.md |
-| Agent-Swarm 一人开发团队 | 通过上下文实现专业化，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的效率 | usecases/Agent-Swarm-一人开发团队/README.md |
-| 能签单的AI员工 | 将OpenClaw转换为成交高手，自动起草合同并通过电子签名发送，实现从线索到签署合同的全程自动化 | usecases/AI合同签署/ai-contract-signing-zh.md |
-| 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线.md |
-| Todoist 任务管理器 | 通过将内部推理和进度日志直接同步到 Todoist，让长时间运行的智能体工作流保持最大透明度 | usecases/todoist-task-manager.zh.md |
-| arXiv论文阅读器 | 通过对话方式阅读、分析和比较arXiv论文，支持LaTeX自动处理、选择性阅读、多论文比较和智能摘要 | usecases/arXiv论文阅读器.md |
-| B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B AI销售开发代表/b2b-sdr-agent-zh.md |
-| A股每日行情监控 | 每个交易日自动采集A股行情数据，生成盘前简报和盘后复盘，包括大盘指数、板块异动、资金流向和自选股监控 | usecases/A股每日行情监控/cn-a-share-monitor.md |
-| Agent Swarm 一人开发团队 | Agent Swarm 一人开发团队（全配置指南）- OpenClaw作为编排层，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的高效协作 | usecases/Agent-Swarm-一人开发团队/README.md |
-
 ## 📖 项目简介
 
 本项目是对 各类OpenClaw的usecases 的**中文翻译 + 国内替代方案**项目以及更精细化的整理，帮助中文用户快速理解和使用各种 OpenClaw 实用用例。
