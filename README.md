@@ -26,7 +26,7 @@
 | 自主教育游戏开发流水线 | 自主教育游戏开发流水线 - 使用AI代理管理游戏开发和维护生命周期，包括Bug修复和新游戏创建，每7分钟可生产1个新游戏 | usecases/自主教育游戏开发流水线/README.md |
 | Todoist 任务管理器 | 通过将内部推理和进度日志直接同步到 Todoist，让长时间运行的智能体工作流保持最大透明度 | usecases/Todoist任务管理器/README.md |
 | arXiv论文阅读器 | 通过对话方式阅读、分析和比较arXiv论文，支持LaTeX自动处理、选择性阅读、多论文比较和智能摘要 | usecases/arXiv论文阅读器/README.md |
-| B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B AI销售开发代表/README.md |
+| B2B AI 销售开发代表 | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | usecases/B2B-AI销售开发代表/README.md |
 | A股每日行情监控 | 每个交易日自动采集A股行情数据，生成盘前简报和盘后复盘，包括大盘指数、板块异动、资金流向和自选股监控 | usecases/A股每日行情监控/README.md |
 | Agent Swarm 一人开发团队 | Agent Swarm 一人开发团队（全配置指南）- OpenClaw作为编排层，将业务上下文转化为精确Prompt分发给各个编码Agent，实现一人开发团队的高效协作 | usecases/Agent-Swarm-一人开发团队/README.md |
 
@@ -211,7 +211,7 @@
 | [团队仪式规划器](usecases/团队仪式规划器/README.md) | 基于团队仪式、会议卫生和运营节奏信号构建周期性团队仪式数据包，自动标记延迟和协调风险供人事负责人使用 | 🔔 📦 | ⭐⭐ |
 | [事件事后复盘报告生成器](usecases/事件事后复盘报告生成器/README.md) | 从事件时间线、Issue 链接和运维人员笔记中自动生成周期性事后复盘报告草稿，按风险等级、复发频率和交付影响排序 | 🔔 📦 | ⭐⭐ |
 | [M365邮件分拣预取](usecases/M365邮件分拣预取/README.md) | 跨多个 M365 租户的智能邮件监控，通过 Python 预取脚本将 token 用量降低 99%，配合 OpenClaw 智能分拣判断邮件紧急程度，仅推送需关注的事项 | 🔔 📦 | ⭐⭐⭐ |
-| [Claw Earn赏金市场](usecases/Claw Earn赏金市场/README.md) | AI原生赏金市场，AI智能体通过API自主发现任务、承接赏金、提交工作成果并自动获取报酬，积累信誉评分 | 📦 | ⭐⭐ |
+| [Claw Earn赏金市场](usecases/Claw-Earn赏金市场/README.md) | AI原生赏金市场，AI智能体通过API自主发现任务、承接赏金、提交工作成果并自动获取报酬，积累信誉评分 | 📦 | ⭐⭐ |
 | [投资者月报生成器](usecases/投资者月报生成器/README.md) | 自动从 Stripe、Google Analytics 和 CRM 拉取数据，每月生成结构化投资者更新邮件 | 📦 | ⭐⭐ |
 | [Telegram智能家居控制](usecases/Telegram智能家居控制/README.md) | 通过 Telegram 自然语言消息控制智能家居，一个聊天界面管理灯光、温控、安防等所有设备，支持 Home Assistant 和 SmartThings | 📦 | ⭐⭐ |
 
@@ -278,7 +278,7 @@
 | [Opik可观测性追踪](usecases/Opik可观测性追踪/README.md) | 通过 Opik 为 OpenClaw 添加端到端可观测性，集中查看 LLM/工具/子智能体的追踪链路、错误和成本用量，支持快速故障排查和费用优化 | 📦 | ⭐⭐ |
 | [依赖漂移监控塔](usecases/依赖漂移监控塔/README.md) | 基于依赖更新和未解决的包漂移，构建周期性优先级依赖风险队列，按风险、重复率和交付影响排序，生成供运维人员审查的优先级队列 | 🔔 📦 | ⭐⭐ |
 | [沙盒化多机器人管理](usecases/沙盒化多机器人管理/沙盒化多机器人管理.md) | 通过原生桌面GUI管理多个OpenClaw实例，每个机器人在独立Docker容器中运行，默认禁用网络确保安全隔离，支持一键启停和资源监控 | 📦 | ⭐⭐ |
-| [WordPress B2B外贸站点部署](usecases/WordPress B2B外贸站点部署/README.md) | 将 OpenClaw 化为部署代理，40 分钟内交互式完成 WordPress 外贸站点的完整部署，涵盖 Docker 编排、三层缓存、多语言支持、SEO 配置和安全加固 | 📦 | ⭐⭐⭐ |
+| [WordPress B2B外贸站点部署](usecases/WordPress-B2B外贸站点部署/README.md) | 将 OpenClaw 化为部署代理，40 分钟内交互式完成 WordPress 外贸站点的完整部署，涵盖 Docker 编排、三层缓存、多语言支持、SEO 配置和安全加固 | 📦 | ⭐⭐⭐ |
 
 <details>
 <summary>🇨🇳 基础设施与运维 — 国内替代方案</summary>
@@ -364,7 +364,7 @@
 | [个人CRM](usecases/个人CRM/README.md) | 自动从邮件和日历发现并追踪联系人，支持自然语言查询和会议准备简报 | 🔔 📦 | ⭐⭐ |
 | [轻量个人CRM](usecases/轻量个人CRM/README.md) | 基于近期邮件和日历活动构建轻量联系人记忆系统，自动生成关系上下文和待办跟进提醒 | 🔔 📦 | ⭐⭐ |
 | [本地CRM框架](usecases/本地CRM框架/README.md) | 一条命令将 OpenClaw 变成本地 CRM 和销售自动化平台，支持自然语言查询和多视图 | 📦 | ⭐⭐⭐ |
-| [B2B AI销售开发代表](usecases/B2B AI销售开发代表/README.md) | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | 🔔 📦 | ⭐⭐⭐ |
+| [B2B AI销售开发代表](usecases/B2B-AI销售开发代表/README.md) | 将 OpenClaw 变为 AI 驱动的 B2B 销售开发代表，通过 7 层上下文系统在 WhatsApp/Telegram/邮件上自动完成线索获取、资质评估、报价谈判和跟进的全流程销售管道 | 🔔 📦 | ⭐⭐⭐ |
 | [SLA守护者](usecases/SLA守护者/README.md) | 定时扫描客服收件箱，识别有 SLA 违约风险的会话，自动分级并生成升级摘要推送 | 🔔 📦 | ⭐⭐ |
 | [邮件自动分类器](usecases/邮件自动分类器/README.md) | 将收件邮件自动分类为紧急、常规和垃圾邮件，仅推送时间敏感消息，帮助更快响应高优先级事项 | 🔔 📦 | ⭐⭐ |
 | [邮件通信副驾驶](usecases/邮件通信副驾驶/README.md) | 将 OpenClaw 变为邮件与会议副驾驶，自动摘要收件箱线程、从会议纪要中提取后续行动项、并生成待审核的回复草稿，支持 Gmail 和 AgentMail 接入 | 📦 | ⭐⭐ |
